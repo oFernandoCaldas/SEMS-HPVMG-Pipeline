@@ -1,0 +1,27 @@
+[
+  {
+    "candidato": 65,
+    "valido": true,
+    "tentativas": [
+      {
+        "max_iter": null,
+        "segundos": 0.5358477519999951,
+        "n_iter": null,
+        "avisos": [],
+        "convergence_warning": false,
+        "numerical_warning": false,
+        "loss": null,
+        "loss_curve": null
+      }
+    ],
+    "maximo_treino": 8.26,
+    "parametros_efetivos": {
+      "alpha": 2.568386730418734,
+      "coef0": 1.0,
+      "degree": 3,
+      "gamma": 0.05718030235668149,
+      "kernel": "polynomial",
+      "kernel_params": null
+    }
+  }
+]
