@@ -1,0 +1,35 @@
+{
+  "rodada": "FINAL",
+  "modelo": "XGBoost",
+  "candidato": 157,
+  "parametros": {
+    "colsample_bytree": 1.0,
+    "learning_rate": 0.13136934937229205,
+    "max_depth": 1,
+    "min_child_weight": 8,
+    "n_estimators": 50,
+    "reg_alpha": 1.0,
+    "reg_lambda": 0.030284009507564668,
+    "subsample": 0.7
+  },
+  "RMSE_validacao": 1.0958390099772923,
+  "candidatos_validos": 192,
+  "candidatos_total": 192,
+  "semente_selecao": 42,
+  "estabilidade": "reajuste_com_parametros_fixos_nao_reselecao",
+  "artefatos": {
+    "divisoes_resumo.csv": "1a8b0177eb9689f691facd242415d93fe6782dc93304048177eea426dae70e91",
+    "modelo_seed_17.joblib": "5299f8c709e8068b0b8d1a5d44f71f989dde9f875f9f150d97909f756619e96e",
+    "diagnosticos.jsonl": "ef7dfa83731f2b07ebf89d3c22609c3643ebd620d08fa2e530aa9ffdc0575fcb",
+    "divisoes_dias.csv": "0c3be00f7a656e02b8605c56f3c53eec20a9c1b1545f547f6306e0c6c3378062",
+    "estabilidade_metricas.csv": "90864380738693f230cb7755d2886f3d19eeb991213ed6afbc646762fb141176",
+    "diagnosticos_reajuste.json": "fd5bddf62139d1fec6a56e43a98c843eb543137c38ed1b094b9f5afd08369610",
+    "diagnostico_seed_73.json": "093e77b68c7a4fb499423588c5e21a95885c22fe02cf0c2c7912d31daa078acf",
+    "busca.csv": "7ef41eef5dcc1b35365385d1ba552f7b2680b64aa2b596007696ae3bcf48fb13",
+    "modelo.joblib": "047c3f52982ef9b00acbb6774063eec1a93b34b6454e66e6aa1263137c86572c",
+    "metricas_externas.csv": "c77016afd47c020d2b57bea966789613da38c83a3b940799d401679d8a560aa9",
+    "diagnostico_seed_17.json": "1ba0299f8631192bd35e118e8a2ebe28e4c2f3ece6b56dfd2610765c7b1d473b",
+    "metricas_internas.csv": "c340ac142160faa895a64eed2f190ea5025b3236069a16b5ae165d834ee1868a",
+    "modelo_seed_73.joblib": "9e9290d3241a3a5d6b7a85a9de9df0bc688b002b043c80e9600cc95313c02164"
+  }
+}

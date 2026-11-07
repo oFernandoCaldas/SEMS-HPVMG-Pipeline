@@ -1,0 +1,34 @@
+{
+  "rodada": "FINAL",
+  "modelo": "MLP",
+  "candidato": 47,
+  "parametros": {
+    "activation": "tanh",
+    "alpha": 0.5413808885100023,
+    "batch_size": "auto",
+    "hidden_layer_sizes": [
+      50
+    ],
+    "learning_rate_init": 0.00016924097439156792
+  },
+  "RMSE_validacao": 1.0486157204540707,
+  "candidatos_validos": 72,
+  "candidatos_total": 72,
+  "semente_selecao": 42,
+  "estabilidade": "reajuste_com_parametros_fixos_nao_reselecao",
+  "artefatos": {
+    "divisoes_resumo.csv": "1a8b0177eb9689f691facd242415d93fe6782dc93304048177eea426dae70e91",
+    "modelo_seed_17.joblib": "bbdc103ae497507ba5521adcec8527a1ed1c8128b2ded99e86f20ad34243cfa1",
+    "diagnosticos.jsonl": "1313bb70376196017bf42c1a2080a8fb8ad04139353674802c823bde5c857cae",
+    "divisoes_dias.csv": "0c3be00f7a656e02b8605c56f3c53eec20a9c1b1545f547f6306e0c6c3378062",
+    "estabilidade_metricas.csv": "709d141b0f06d08b790b75ee98a6e832e896363ccac36e0c435ed340ba1e3d2b",
+    "diagnosticos_reajuste.json": "9b392e2659bf123b1afe916809d4c7e4a4265e86139342151d6e672f399eba50",
+    "diagnostico_seed_73.json": "af6a759304a9b81201f1317a6b7b23acd0a3e077462ec1e16eba299c4b3468fe",
+    "busca.csv": "8926139da9b93e0b269d2fbb370ba64e8cd5456f90778da28c3534bc4d75a5d5",
+    "modelo.joblib": "ef1406ad1e45ef868838e1a5848de2bd038769b4894a7fb70e54a21a2ef9a70c",
+    "metricas_externas.csv": "41dd999b6cef4d082663fa8cc301b69fb39e652ce93aac1b837f098df80aaff1",
+    "diagnostico_seed_17.json": "7cfab503b04736034cc735e1072100e4f3bd29b64c4bad54808454fe356172b6",
+    "metricas_internas.csv": "8b31420feae5ddc384535082eb37d30100a2b9340ec538760e407a659baf5b9e",
+    "modelo_seed_73.joblib": "8dd08a40cd81883ff3aefd7777bea5244643d532fef9a449cf89d746b437be84"
+  }
+}

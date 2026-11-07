@@ -1,0 +1,25 @@
+{
+  "rodada": "FINAL",
+  "modelo": "KRR",
+  "candidato": 3,
+  "parametros": {
+    "alpha": 0.004730506998915011,
+    "gamma": 0.0003449553285884224,
+    "kernel": "rbf"
+  },
+  "RMSE_validacao": 1.0499206932051122,
+  "candidatos_validos": 72,
+  "candidatos_total": 72,
+  "semente_selecao": 42,
+  "estabilidade": "deterministico",
+  "artefatos": {
+    "divisoes_resumo.csv": "1a8b0177eb9689f691facd242415d93fe6782dc93304048177eea426dae70e91",
+    "diagnosticos.jsonl": "ee00af778ba0c7de6b7d1f8fec4019e5caaf0b17e6042e9cb54f47b3707e65d0",
+    "divisoes_dias.csv": "0c3be00f7a656e02b8605c56f3c53eec20a9c1b1545f547f6306e0c6c3378062",
+    "diagnosticos_reajuste.json": "9b849c7c53d889b595c7948b14d3c7b0ac7e8c4314b9c6c86f6c6c42511ef10f",
+    "busca.csv": "3c15ec511732d88091d69a9aca95d88aa8eb905af3f210e9a357f8f5c2914891",
+    "modelo.joblib": "8c5174b01eb6229df5c9e60995b0fa0412dd1bf552355e50a42089b7eccd365a",
+    "metricas_externas.csv": "1cd3f4170db19f2f1b2fdd277d44df91ec82d5edf2a9aa45a528beb3872dd41e",
+    "metricas_internas.csv": "43c95f0703333f7d993fc6c6f4390368bdd5838d5ba3decc2a439ac23ef14790"
+  }
+}
