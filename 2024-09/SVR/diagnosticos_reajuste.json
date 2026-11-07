@@ -1,0 +1,32 @@
+[
+  {
+    "candidato": 30,
+    "valido": true,
+    "tentativas": [
+      {
+        "max_iter": null,
+        "segundos": 0.1727924269999903,
+        "n_iter": 2042,
+        "avisos": [],
+        "convergence_warning": false,
+        "numerical_warning": false,
+        "loss": null,
+        "loss_curve": null
+      }
+    ],
+    "maximo_treino": 8.26,
+    "parametros_efetivos": {
+      "C": 40.36393969246245,
+      "cache_size": 256,
+      "coef0": 0.0,
+      "degree": 3,
+      "epsilon": 0.01167495660434143,
+      "gamma": 0.0005510253779331716,
+      "kernel": "rbf",
+      "max_iter": -1,
+      "shrinking": true,
+      "tol": 0.001,
+      "verbose": false
+    }
+  }
+]
