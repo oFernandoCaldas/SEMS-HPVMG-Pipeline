@@ -1,0 +1,25 @@
+{
+  "sha256": {
+    "config.json": "f1793f6c3d0cfa791195995239df3586bbf02df4cfb5d971d95bbd4d74fdac00",
+    "sgie_pipeline.py": "67266507fd45ebb6c68b0598987123e7fc77f2e0cc5311240bc7187a7b21313d",
+    "sgie_estimators.py": "03a1a34b6491f9cd7426f9c831d2d4bc044b2d0a1f0572b2898178ead11e08ed",
+    "executar.py": "03c13b9fc4c543de8f0b64d7af5a3e6ef0016d501f0e59f6eb5b4be072cadde8",
+    "prever_21h.py": "01dd6df454204616a1db3bed5f255f2c75ef848dda56c600ae1d93e4dc7eec3a",
+    "dados/dados_geracao.csv": "514c46cc697a9a108eac6af0fe4d450da8a9f957687be5625f3f5b1428b301c4",
+    "dados/open_meteo_convertido.csv": "9bc9ac96eb72886febe9af1adfdb232ce43800fe50e9067aefd4670f3adfc00e"
+  },
+  "qualidade_presente": false,
+  "ambiente": {
+    "python": "3.12.14",
+    "bibliotecas": {
+      "numpy": "2.3.5",
+      "pandas": "2.2.3",
+      "scipy": "1.17.0",
+      "scikit-learn": "1.8.0",
+      "xgboost": "3.0.5",
+      "pvlib": "0.15.2",
+      "joblib": "1.5.3",
+      "threadpoolctl": "3.6.0"
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "run_id": "robusto_v3_ghi_tmais1h_zenite_tmais30min",
+  "target": {
+    "column": "SystemProduction",
+    "unit": "kWh",
+    "interval": "[t,t+1h)"
+  },
+  "features": [
+    {
+      "column": "GHI",
+      "unit": "W/m²",
+      "timestamp_rule": "t+1h"
+    },
+    {
+      "column": "AirTemperature",
+      "unit": "°C",
+      "timestamp_rule": "t"
+    },
+    {
+      "column": "WindSpeed",
+      "unit": "m/s",
+      "timestamp_rule": "t"
+    }
+  ],
+  "preprocessing": "StandardScaler em X e y, ajustados dentro de cada treino; o modelo serializado aceita features nas unidades declaradas. Saída limitada a [0, máximo y do treino].",
+  "solar_filter": "zênite geométrico ≤90° no ponto t+30min",
+  "models": {
+    "KRR": {
+      "file": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/KRR/modelo.joblib",
+      "sha256": "8c5174b01eb6229df5c9e60995b0fa0412dd1bf552355e50a42089b7eccd365a",
+      "selected_candidate": 3,
+      "internal_validation_RMSE_kWh": 1.0499206932051122,
+      "parameters": {
+        "alpha": 0.004730506998915011,
+        "gamma": 0.0003449553285884224,
+        "kernel": "rbf"
+      }
+    },
+    "MLP": {
+      "file": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/MLP/modelo.joblib",
+      "sha256": "ef1406ad1e45ef868838e1a5848de2bd038769b4894a7fb70e54a21a2ef9a70c",
+      "selected_candidate": 47,
+      "internal_validation_RMSE_kWh": 1.0486157204540707,
+      "parameters": {
+        "activation": "tanh",
+        "alpha": 0.5413808885100023,
+        "batch_size": "auto",
+        "hidden_layer_sizes": [
+          50
+        ],
+        "learning_rate_init": 0.00016924097439156792
+      }
+    },
+    "SVR": {
+      "file": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/SVR/modelo.joblib",
+      "sha256": "7d02e598df6f154e4158f98a948576961499b641118a7f9a8c7fbf2b22ac3f67",
+      "selected_candidate": 30,
+      "internal_validation_RMSE_kWh": 1.028050033720464,
+      "parameters": {
+        "C": 40.36393969246245,
+        "epsilon": 0.01167495660434143,
+        "gamma": 0.0005510253779331716,
+        "kernel": "rbf"
+      }
+    },
+    "XGBoost": {
+      "file": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/XGBoost/modelo.joblib",
+      "sha256": "047c3f52982ef9b00acbb6774063eec1a93b34b6454e66e6aa1263137c86572c",
+      "selected_candidate": 157,
+      "internal_validation_RMSE_kWh": 1.0958390099772923,
+      "parameters": {
+        "colsample_bytree": 1.0,
+        "learning_rate": 0.13136934937229205,
+        "max_depth": 1,
+        "min_child_weight": 8,
+        "n_estimators": 50,
+        "reg_alpha": 1.0,
+        "reg_lambda": 0.030284009507564668,
+        "subsample": 0.7
+      }
+    }
+  }
+}

@@ -1,0 +1,2877 @@
+[
+  {
+    "arquivo": "LEIA_ME.md",
+    "sha256": "a588921c33ac78327d8bee1c290ba72d0f6e07458d2c8492170e34fc070a0f2e",
+    "bytes": 2473
+  },
+  {
+    "arquivo": "PROTOCOLO.md",
+    "sha256": "7066fa2addecccf66d7539a9817a9713c75827408d3caa8e518204d26fd0bd5c",
+    "bytes": 3165
+  },
+  {
+    "arquivo": "Pipeline_SGIE_ROBUSTO_V3.ipynb",
+    "sha256": "c2a866d989f47d8548d1d80c7c683377fe85239cced5293c3f27433a0c558170",
+    "bytes": 4051
+  },
+  {
+    "arquivo": "README.md",
+    "sha256": "d8de090dbf8a90ac5becd51336448ead6a1a84c7986746bc9eb653d01eba8fdc",
+    "bytes": 1795
+  },
+  {
+    "arquivo": "comparacao_v2_v3/COMPARACAO_V2_V3.md",
+    "sha256": "c927f29f62e22cb17dcd40f86178aa0ec7587fdb0ce64d6b09eae3b601c637c2",
+    "bytes": 5143
+  },
+  {
+    "arquivo": "comparacao_v2_v3/ic_pareado_rmse_lomo.csv",
+    "sha256": "88b354f57b8e810972e0a8b120c0f631badde5a73bfb38c0e9a0d3d56b01ae18",
+    "bytes": 687
+  },
+  {
+    "arquivo": "comparacao_v2_v3/metricas_cronologicas_pareadas.csv",
+    "sha256": "9cc584a8d8a70a72277892772779fca7a3f344c8d33af8dd8f871868beb1b10a",
+    "bytes": 1141
+  },
+  {
+    "arquivo": "comparacao_v2_v3/metricas_lomo_pareadas.csv",
+    "sha256": "2c3accd8f37f16e6acb33319c1b0e584c5fa88c55777b5f8bde3df221559d371",
+    "bytes": 1152
+  },
+  {
+    "arquivo": "comparacao_v2_v3/predicoes_cronologicas_comuns_por_horario.csv",
+    "sha256": "e907e4e078eb81f2ec31e0ddcb151fbaf169334cdb91a6baa6e71d67a910c13f",
+    "bytes": 799972
+  },
+  {
+    "arquivo": "comparacao_v2_v3/predicoes_lomo_comuns_por_horario.csv",
+    "sha256": "ff05adbfb3bd8a0d09e1b1006ac27c3b5fb0265f5c1cf1bad031a56632ce09db",
+    "bytes": 3463395
+  },
+  {
+    "arquivo": "comparacao_v2_v3/reproducao_v2_vs_resultado_publicado.csv",
+    "sha256": "0239dafc619106104f23d55f526e41982cf59f96a2093e9d3c69e62f2eaafbbb",
+    "bytes": 2093
+  },
+  {
+    "arquivo": "comparacao_v2_v3/treinamento_v2_repro.log",
+    "sha256": "593692c5bfb46317ce53ec4b21c477aa98f884415cab485ad9b281a682867871",
+    "bytes": 14557
+  },
+  {
+    "arquivo": "config.json",
+    "sha256": "f1793f6c3d0cfa791195995239df3586bbf02df4cfb5d971d95bbd4d74fdac00",
+    "bytes": 94320
+  },
+  {
+    "arquivo": "dados/dados_geracao.csv",
+    "sha256": "514c46cc697a9a108eac6af0fe4d450da8a9f957687be5625f3f5b1428b301c4",
+    "bytes": 125780
+  },
+  {
+    "arquivo": "dados/open_meteo_convertido.csv",
+    "sha256": "9bc9ac96eb72886febe9af1adfdb232ce43800fe50e9067aefd4670f3adfc00e",
+    "bytes": 324242
+  },
+  {
+    "arquivo": "executar.py",
+    "sha256": "03c13b9fc4c543de8f0b64d7af5a3e6ef0016d501f0e59f6eb5b4be072cadde8",
+    "bytes": 10063
+  },
+  {
+    "arquivo": "graficos/comparacao_mae_pareada.png",
+    "sha256": "7233a3bf3a787116c83d7b71636bf090114ffb39b2ba0cd367fe2622ce3639fb",
+    "bytes": 44319
+  },
+  {
+    "arquivo": "graficos/comparacao_rmse_pareada.png",
+    "sha256": "50a849c41c505928d86e9aedf34e50f45188b9869635f2d7178becd916532795",
+    "bytes": 46650
+  },
+  {
+    "arquivo": "graficos/rmse_lomo_v3.png",
+    "sha256": "3cbf6fada81a0905ae724bb2103d1334b126845e4fcf43ccf78f685b28b19410",
+    "bytes": 52140
+  },
+  {
+    "arquivo": "graficos/rmse_mensal_lomo_v3.png",
+    "sha256": "c21a8e5f3b562059c4a6ca538473d3c27bf10b514cd3e3630e539c707f5f8dd3",
+    "bytes": 150894
+  },
+  {
+    "arquivo": "plotar_resultados_v3.py",
+    "sha256": "819cb74d964097f5ad9024fe5fab31b4fc7d875916581482551bb8da398398b4",
+    "bytes": 2123
+  },
+  {
+    "arquivo": "prever_21h.py",
+    "sha256": "01dd6df454204616a1db3bed5f255f2c75ef848dda56c600ae1d93e4dc7eec3a",
+    "bytes": 5403
+  },
+  {
+    "arquivo": "requirements.txt",
+    "sha256": "d42974bc8a111d15e80381f0da61fc0fb4411bca9c10e9337023bbc341dd8560",
+    "bytes": 225
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/KRR/busca.csv",
+    "sha256": "20e55139da1de51292128ad9c88bfce42bbe64e1a113437c6cea5f8150d01404",
+    "bytes": 8634
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/KRR/concluido.json",
+    "sha256": "5f523b73647f668ce41544b1aab8492feea1491b5b1626ad470ad3f840f2f90c",
+    "bytes": 1199
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/KRR/diagnosticos.jsonl",
+    "sha256": "2142bdd42d4206c5515b4c7ae3352b5c7642f9379483c89852a35c1d9ceb6c96",
+    "bytes": 88201
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/KRR/diagnosticos_reajuste.json",
+    "sha256": "4ba1ce28d87521ae8da527b678fef5b437ee7c8138e39e4f4a8dabb36cb9fad3",
+    "bytes": 554
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/KRR/divisoes_dias.csv",
+    "sha256": "aca18dec7b7fbda967d3947b7203f2062ca998caae42989e3a256f0242e9ac8b",
+    "bytes": 17187
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/KRR/divisoes_resumo.csv",
+    "sha256": "8e27b2ad800c86da063fe383475b3f8cb9d34dcab8ace1417ee4f6a1d5375e75",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/KRR/metricas_externas.csv",
+    "sha256": "514bf6e5300c0d73ac65216eec502589c8dd7794aab602431338b8b6fb77799e",
+    "bytes": 816
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/KRR/metricas_internas.csv",
+    "sha256": "ff9a7f45f33037512ce552025b4b4ef9481573a4770029d2e6c532f9660fa522",
+    "bytes": 127404
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/KRR/modelo.joblib",
+    "sha256": "fe75c26b2f75555b893f78f143e28351476fbb16e0d72ec0ce34c8c1d0e13131",
+    "bytes": 44772
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/KRR/predicoes_teste.csv",
+    "sha256": "bf9a300731c46b66727732fd2d53d5b2ecccdda41c396e98be3a5c8989ec57ac",
+    "bytes": 57610
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/MLP/busca.csv",
+    "sha256": "78721fe60aa369d00e6f04dbf3acd72601988ec4ecaa32cdb61cde8faeff168a",
+    "bytes": 13516
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/MLP/concluido.json",
+    "sha256": "0b6ea754723271a2b8e95cb52adaf0e567febaafaf9e45538e17f59955323783",
+    "bytes": 1999
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/MLP/diagnostico_seed_17.json",
+    "sha256": "7d83ddd20383037c5958671dd16f757aa2a61d507d506a5a4334833e76343125",
+    "bytes": 2517
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/MLP/diagnostico_seed_73.json",
+    "sha256": "0552ef77692b7f1218e625a02c0dc653a0d84196df9d8e8f56698d4071f14e5f",
+    "bytes": 2052
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/MLP/diagnosticos.jsonl",
+    "sha256": "fb495ed16321d1748406202c70d755f8b48c82a2de859f3a444f719bcd7f9c0d",
+    "bytes": 1284479
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/MLP/diagnosticos_reajuste.json",
+    "sha256": "e7788cba272e54967f05f292dd109bc3e7eb271bd091ed605c5c9c64a8c4540f",
+    "bytes": 2764
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/MLP/divisoes_dias.csv",
+    "sha256": "aca18dec7b7fbda967d3947b7203f2062ca998caae42989e3a256f0242e9ac8b",
+    "bytes": 17187
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/MLP/divisoes_resumo.csv",
+    "sha256": "8e27b2ad800c86da063fe383475b3f8cb9d34dcab8ace1417ee4f6a1d5375e75",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/MLP/estabilidade_metricas.csv",
+    "sha256": "8971b11c0f33fd4cfc98c295946a1d9a3227abce59e56e730ce3a637617e05f5",
+    "bytes": 1378
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/MLP/metricas_externas.csv",
+    "sha256": "7e91cb7d76d154197e325ce7550ad11e9ccde14bcea89670e7fa51985293323f",
+    "bytes": 816
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/MLP/metricas_internas.csv",
+    "sha256": "1791bbe5980a8616bdbd0fdf37c40092e9558ece0d88a48670166cc63f596aeb",
+    "bytes": 126709
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/MLP/modelo.joblib",
+    "sha256": "954369483762d7710506b5aa72adc1e00ba2bc1b682a0e3c3e9da3cdf2284f9a",
+    "bytes": 13116
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/MLP/modelo_seed_17.joblib",
+    "sha256": "eab3709caf294b27c8b9a67c2667737457cd52762b6ca03476043470b786d1bb",
+    "bytes": 13094
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/MLP/modelo_seed_73.joblib",
+    "sha256": "281f4094ef42c8ce7af902a2442feb1403204c591b6d299f0022bd4c74fc213a",
+    "bytes": 12936
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/MLP/predicoes_seed_17.csv",
+    "sha256": "65a7a18652d3fcda5c9a0a9790e08deb36c99d238314b0c3ac59a59612d6af62",
+    "bytes": 57634
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/MLP/predicoes_seed_73.csv",
+    "sha256": "7cecf1789edd49c1e50bbacacd8d4f2aae43bb2dc12bb6cd11780fa4a5ccf44c",
+    "bytes": 57584
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/MLP/predicoes_teste.csv",
+    "sha256": "aad11864cae9e85e2147ed5489572069b27c4483a2da5bacfd331cffbd590cf9",
+    "bytes": 57626
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/SVR/busca.csv",
+    "sha256": "f459685e0b832f43246fceabd7d25b548ade9592447617ad9e1797ae5f41c335",
+    "bytes": 13787
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/SVR/concluido.json",
+    "sha256": "b9c9bdb4fb279f6b785de5ceac6f6973f1c09247476b4ca5643390e4296d46ae",
+    "bytes": 1230
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/SVR/diagnosticos.jsonl",
+    "sha256": "2753099e8b3d7c02ca1b43f39d9b13920d5396675420ed022f57b364a54cd791",
+    "bytes": 144019
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/SVR/diagnosticos_reajuste.json",
+    "sha256": "6a5934cb8be6bb9452169563877b376547ea0e7523b6bc3c9b6874d62d5f436b",
+    "bytes": 677
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/SVR/divisoes_dias.csv",
+    "sha256": "aca18dec7b7fbda967d3947b7203f2062ca998caae42989e3a256f0242e9ac8b",
+    "bytes": 17187
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/SVR/divisoes_resumo.csv",
+    "sha256": "8e27b2ad800c86da063fe383475b3f8cb9d34dcab8ace1417ee4f6a1d5375e75",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/SVR/metricas_externas.csv",
+    "sha256": "7fedd5f7b412a6d06c566bab8ce0c3f52eefdf171e3935cc2e5b0c47454e3af4",
+    "bytes": 811
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/SVR/metricas_internas.csv",
+    "sha256": "517e37af5fd87b51e3d4f6fe3b570d4549c435fd2077c1a4075e79700d1aa834",
+    "bytes": 169132
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/SVR/modelo.joblib",
+    "sha256": "751d5d9539cc7af71a452106b06acead4e9b8dc755200b9f28760cb95e8b7c74",
+    "bytes": 31455
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/SVR/predicoes_teste.csv",
+    "sha256": "c9af40d4153b2d9e3ce291061522849e023480e34e484646b62a7858fe6ccf23",
+    "bytes": 57623
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/XGBoost/busca.csv",
+    "sha256": "2338d8898f344a44c437809dd4e565337708a6c0c183d2f12d20bdd09fb9ae88",
+    "bytes": 46070
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/XGBoost/concluido.json",
+    "sha256": "ba82b8b0487b1c5c72544da2cf36682dd9df256f963d34b662593312e684ea3f",
+    "bytes": 2058
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/XGBoost/diagnostico_seed_17.json",
+    "sha256": "08b687c3baabcd786a04a674f358662038f3261515c7ad27b0ff9ffaee4fa886",
+    "bytes": 1410
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/XGBoost/diagnostico_seed_73.json",
+    "sha256": "895a2d5a42427dbf25fa32f294bc31e7eb0b3d5f627cf5e39b15ddd5953d7242",
+    "bytes": 1411
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/XGBoost/diagnosticos.jsonl",
+    "sha256": "20c2d2a507ad25359a07e9416aa69de222c9c3ce4acb24961ad03b70d7bd638e",
+    "bytes": 695351
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/XGBoost/diagnosticos_reajuste.json",
+    "sha256": "484ceb828ce371217fc2323516d4f69802dcc7ebf8fda71e3a8a7c5eeced799f",
+    "bytes": 1550
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/XGBoost/divisoes_dias.csv",
+    "sha256": "aca18dec7b7fbda967d3947b7203f2062ca998caae42989e3a256f0242e9ac8b",
+    "bytes": 17187
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/XGBoost/divisoes_resumo.csv",
+    "sha256": "8e27b2ad800c86da063fe383475b3f8cb9d34dcab8ace1417ee4f6a1d5375e75",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/XGBoost/estabilidade_metricas.csv",
+    "sha256": "d6febd34f9b0c1d4cf5eda71a51d3f810ccb5099293cd98b2978ae66c879a3d3",
+    "bytes": 1395
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/XGBoost/metricas_externas.csv",
+    "sha256": "c3d4fa25facebad6f8c63c8dfbac45694fddc80bef83647733ef2b8e58a880ce",
+    "bytes": 812
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/XGBoost/metricas_internas.csv",
+    "sha256": "cb9c31f9637e8048da77efbd4c2d50e14defffb4229ec380af830373eab7b15e",
+    "bytes": 339280
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/XGBoost/modelo.joblib",
+    "sha256": "09c2a01ea3621bd928860fa5e6d847adda54aab72e34e4acdf012fde41b76eb1",
+    "bytes": 5628
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/XGBoost/modelo_seed_17.joblib",
+    "sha256": "3b6a638928c33e32b59d2b77bb24b53c6bf0439d9ec86db2edbc50ae2ea4f78f",
+    "bytes": 5608
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/XGBoost/modelo_seed_73.joblib",
+    "sha256": "0a58f203431f3a0bee5435d9946cf49ecd0fe75b737c052ac8104fb107d0b70c",
+    "bytes": 5569
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/XGBoost/predicoes_seed_17.csv",
+    "sha256": "9ca0b0e50eda3406568753d598d14ca3713a025a9411b08e12adddfc6b92b4b0",
+    "bytes": 57666
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/XGBoost/predicoes_seed_73.csv",
+    "sha256": "d17f9bbb3e88e271af749d94dcc6385cbff99ef4b36f31838041848498402fe9",
+    "bytes": 57568
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-08/XGBoost/predicoes_teste.csv",
+    "sha256": "0aad76831bde97e53c30b8d518d4e50e4d79695824e3b0e32e9e999797cb8d60",
+    "bytes": 57652
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/KRR/busca.csv",
+    "sha256": "11edd87d21ff92eb62c0c51c1b5c798eef8cfefdb8129b76a76c8d1a8379ec0c",
+    "bytes": 8640
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/KRR/concluido.json",
+    "sha256": "f4a07532adba9c279ae9fdc3c63bfc8b80dd96468fb3bcadef005a8d6fa759d9",
+    "bytes": 1199
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/KRR/diagnosticos.jsonl",
+    "sha256": "f4d7d61bbedcf2e7c66c13f56db1145fcca915a19a0e6d85ae872bddc84db8e7",
+    "bytes": 88203
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/KRR/diagnosticos_reajuste.json",
+    "sha256": "549147e5efdc6a5fef3c041cac2c9fb4eb55efbad4f32856d99b44d55ab81520",
+    "bytes": 554
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/KRR/divisoes_dias.csv",
+    "sha256": "e71baf15f75684e993d8a24b3b897f487063c13fb199fdb72615cd086efa8340",
+    "bytes": 17292
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/KRR/divisoes_resumo.csv",
+    "sha256": "b282320c62955ced20056b7bd7661095905db5889a85d1c51487ea26cedbfea0",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/KRR/metricas_externas.csv",
+    "sha256": "647099a5f9466a8c637cf950b4a4361b404e0d26eb72bf2f5c31040c16e4ee97",
+    "bytes": 815
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/KRR/metricas_internas.csv",
+    "sha256": "34fee1ee87c223276631d379ea95f388d509e275779d8b6c3e4036f397c00a15",
+    "bytes": 127294
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/KRR/modelo.joblib",
+    "sha256": "443ea3a0f9c9252d4264833fef9dfde2c4b9c65bb07d8d1f25f4a8d444b693e4",
+    "bytes": 44844
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/KRR/predicoes_teste.csv",
+    "sha256": "58e9090d637a56ebb13f7bfd503833944604259b206b168a66d863b6ca8bd3f2",
+    "bytes": 55390
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/MLP/busca.csv",
+    "sha256": "aa2d7292efee8e5710ee906298870ef7c2f46d2374fdcc94d81c31828da11c0f",
+    "bytes": 13513
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/MLP/concluido.json",
+    "sha256": "8f449e03304038e8c85f87d59a368cd20c12dda1d59c418208742b8dbc7d8092",
+    "bytes": 2002
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/MLP/diagnostico_seed_17.json",
+    "sha256": "dca3af81506070d62fb5931f6ba937b792addf50fafcb0ef51cb4619cd9cd422",
+    "bytes": 2631
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/MLP/diagnostico_seed_73.json",
+    "sha256": "9a841c7a46bc39a64d1751c851f108fe795dae26f4d10397be970dc54d1e2fc5",
+    "bytes": 2458
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/MLP/diagnosticos.jsonl",
+    "sha256": "7d9ceb788aedd0ce28a50fc22d8472b962679184f35d481f6cd99e16832e88a4",
+    "bytes": 1291552
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/MLP/diagnosticos_reajuste.json",
+    "sha256": "84c0c52a24a06c55c017f78f58e338d5ffda5433c75b0838f4fc795dd8728b54",
+    "bytes": 3296
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/MLP/divisoes_dias.csv",
+    "sha256": "e71baf15f75684e993d8a24b3b897f487063c13fb199fdb72615cd086efa8340",
+    "bytes": 17292
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/MLP/divisoes_resumo.csv",
+    "sha256": "b282320c62955ced20056b7bd7661095905db5889a85d1c51487ea26cedbfea0",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/MLP/estabilidade_metricas.csv",
+    "sha256": "0df46502a9372703c03ec08f355bce7af362830e9b780d8b626a95c7c4d89084",
+    "bytes": 1379
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/MLP/metricas_externas.csv",
+    "sha256": "b747a23166e74d6ced8f94029c61327c54963f35a0aa95e0c26805ded2378a0c",
+    "bytes": 812
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/MLP/metricas_internas.csv",
+    "sha256": "bb63bdb69a0b52e1a0290776f78ec8ecc4a8adebfbe8d2df76c3e11cc98538b1",
+    "bytes": 126765
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/MLP/modelo.joblib",
+    "sha256": "bdab474da584741ba59216e7fa997d07c173870b0a4feeb8b4c1e6f5175d4b70",
+    "bytes": 20949
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/MLP/modelo_seed_17.joblib",
+    "sha256": "1c9f5d0f2e0ac5739e70cc0ad3461ef90ed67c4806deb6490ae29f651d8bd66a",
+    "bytes": 20816
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/MLP/modelo_seed_73.joblib",
+    "sha256": "4ea0df41d79592c9f40630e393a57c9a24def305fffde398df3e7721a4124ce6",
+    "bytes": 20782
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/MLP/predicoes_seed_17.csv",
+    "sha256": "57daf83349f10378d9b82ff0f8f1ec0008aacd46efce569e2aab716d8ec5c99a",
+    "bytes": 55406
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/MLP/predicoes_seed_73.csv",
+    "sha256": "9c7dcacc341f99a75fb5c58b5001c994421a222fa3e9a98e935b67f650ca2653",
+    "bytes": 55438
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/MLP/predicoes_teste.csv",
+    "sha256": "8f1e19e318114d95dab808ac68e69c0897acb1b4de079e30c76e8d6b952881c9",
+    "bytes": 55438
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/SVR/busca.csv",
+    "sha256": "b14b770fe0c99b3e6e7bc60637797ac7d6b397ba49017d4634cb17fd15cdee31",
+    "bytes": 13774
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/SVR/concluido.json",
+    "sha256": "5de0b8497611e9a4cf039a9ceb11f8dc2609c0b977c9335620c0527d3534c6d5",
+    "bytes": 1229
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/SVR/diagnosticos.jsonl",
+    "sha256": "da79c5f568a00d39b6a45c41ffddbfd47dd1f2b9648e9b8dcfceda428cf2e7e6",
+    "bytes": 144033
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/SVR/diagnosticos_reajuste.json",
+    "sha256": "754d4e2fdbb333ae271dc5f6ce72ea400d84c3974759f2d663c170a9ba33ca75",
+    "bytes": 675
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/SVR/divisoes_dias.csv",
+    "sha256": "e71baf15f75684e993d8a24b3b897f487063c13fb199fdb72615cd086efa8340",
+    "bytes": 17292
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/SVR/divisoes_resumo.csv",
+    "sha256": "b282320c62955ced20056b7bd7661095905db5889a85d1c51487ea26cedbfea0",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/SVR/metricas_externas.csv",
+    "sha256": "1e5d322c2f1adb52fccf310cb6d7f7abcf5a18833fc91e2a2c75eef9852c340e",
+    "bytes": 802
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/SVR/metricas_internas.csv",
+    "sha256": "44b38312b2022dd2ffaac1f538730b2f82c243e569f7ec4e20298ecb319133b3",
+    "bytes": 169105
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/SVR/modelo.joblib",
+    "sha256": "e5b9ef583bed8801c9657b58de75e89ff8dcf540c367f7f7aa00968d5f7dbca1",
+    "bytes": 33845
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/SVR/predicoes_teste.csv",
+    "sha256": "719681ae4674c32dcba80eae2473a396f06bd1b654ffeab9755b2eb46fc090f1",
+    "bytes": 55422
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/XGBoost/busca.csv",
+    "sha256": "9227bbb0386f77ab912cd15010a6e06aeddbf2e0b167de96579f1745aac20cad",
+    "bytes": 46065
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/XGBoost/concluido.json",
+    "sha256": "98664d8e815e99e4167d4eedc0b67f97f65fe8561cd3372e20236a27f242073f",
+    "bytes": 2060
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/XGBoost/diagnostico_seed_17.json",
+    "sha256": "9143f08a22f7747fecc414b5c8b25a0f0506d38fbe96a33d95c15681dd191d99",
+    "bytes": 1413
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/XGBoost/diagnostico_seed_73.json",
+    "sha256": "9959704d4b2e05c55281c8ec016ba0191a0e42ebbdc08be517b6e132a1a27c42",
+    "bytes": 1413
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/XGBoost/diagnosticos.jsonl",
+    "sha256": "7e85247c7a32925dc09f06fabb991415bda10a5ff3244824232362f88b2d6d8f",
+    "bytes": 695346
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/XGBoost/diagnosticos_reajuste.json",
+    "sha256": "7e226813a42485c047d80acd3655fbd280a11a15ef29884c6e6f43cca6eacc11",
+    "bytes": 1551
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/XGBoost/divisoes_dias.csv",
+    "sha256": "e71baf15f75684e993d8a24b3b897f487063c13fb199fdb72615cd086efa8340",
+    "bytes": 17292
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/XGBoost/divisoes_resumo.csv",
+    "sha256": "b282320c62955ced20056b7bd7661095905db5889a85d1c51487ea26cedbfea0",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/XGBoost/estabilidade_metricas.csv",
+    "sha256": "7eb9d1d45506b327f6c1c37041563a067dd40924a58f0c17a3e137bf15cf8b19",
+    "bytes": 1388
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/XGBoost/metricas_externas.csv",
+    "sha256": "68eb287d53c8997c8c16db3edf3c6e4ed418a2a15b30d8181edf8e498d0e5600",
+    "bytes": 810
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/XGBoost/metricas_internas.csv",
+    "sha256": "089616ea41130085bd63cda53cd7cff6b1b7270257737f4802baeab050077034",
+    "bytes": 339312
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/XGBoost/modelo.joblib",
+    "sha256": "4f00d22b85e0f2cff7e5616b5c17ac2080b47612f72d01cef5e4f4d024f57396",
+    "bytes": 12962
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/XGBoost/modelo_seed_17.joblib",
+    "sha256": "10d7e0102ebfc5e4561e115c1b18fbc37467cb4282710481fc5380fbdfaa5ca8",
+    "bytes": 12943
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/XGBoost/modelo_seed_73.joblib",
+    "sha256": "9b0f2b1fe8b25992f1668d4fb201e540ba6833ea34996b1cfd2dd4fd51afbfb7",
+    "bytes": 13014
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/XGBoost/predicoes_seed_17.csv",
+    "sha256": "385292c23eb1fb874c967e2240a5ad1e96954d85b2e2b9dc2eac1227fc0d8ec0",
+    "bytes": 55420
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/XGBoost/predicoes_seed_73.csv",
+    "sha256": "a6bbeb117e1988123850f459831a3ba9a88e9720daa9dd50963825f767d4263f",
+    "bytes": 55374
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-09/XGBoost/predicoes_teste.csv",
+    "sha256": "d72959924dba818b2517c77a4a26d3b0877dcaed8dc8c22de36a482fce5e24cc",
+    "bytes": 55376
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/KRR/busca.csv",
+    "sha256": "ef0d6235c702c179fbf32398d9026bacd38e1cab0bb9284976ae294335e1f718",
+    "bytes": 8648
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/KRR/concluido.json",
+    "sha256": "29ce3b56f0c61fada558139b8f0625e0b12d6deadde21b3a5c1045ba8a911aaa",
+    "bytes": 1237
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/KRR/diagnosticos.jsonl",
+    "sha256": "ed27f7d980bf91c6b9c41891ec323b03a5b217fca286f6e40e555096297368b9",
+    "bytes": 88226
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/KRR/diagnosticos_reajuste.json",
+    "sha256": "f08abc52458c7a3a68b1823dee685cf4d8afe0b1fe0a388f80260cd10ff9647a",
+    "bytes": 559
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/KRR/divisoes_dias.csv",
+    "sha256": "9aa220f0e1bce1b50bcd5d50471435fd79ced866b25f0d684547fd516c76bcff",
+    "bytes": 17187
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/KRR/divisoes_resumo.csv",
+    "sha256": "33a2dfaff97fab3879cf22254e300ffbfa6f7f8662cc54d6b201a411bafdca24",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/KRR/metricas_externas.csv",
+    "sha256": "2f8a08aedb4bed10eb58cbc45812ccd76cbda5a0769f791867cacf8c4981f6f1",
+    "bytes": 828
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/KRR/metricas_internas.csv",
+    "sha256": "d8c64331adcd4e5a3f1106f143009b601a8787de9b7e5f9e505419d490de1d41",
+    "bytes": 127354
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/KRR/modelo.joblib",
+    "sha256": "2e9af55a5fe391c54c964361a4d4e42170aa211b1aa91691b81f83d844cfdfd6",
+    "bytes": 43951
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/KRR/predicoes_teste.csv",
+    "sha256": "96ebb409ff1397097d25c982b1a8fdf36e51552c0a97bf2e6e78861aeaaff493",
+    "bytes": 70251
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/MLP/busca.csv",
+    "sha256": "8bf0ceca7edc5b82f14b2c4469913e58465d3b8c01b70db26fc7eb7736f8f759",
+    "bytes": 13518
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/MLP/concluido.json",
+    "sha256": "964c293e33b51cf21697d100a710da051e689b245b4e64e9a3857107d9df6fb1",
+    "bytes": 2002
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/MLP/diagnostico_seed_17.json",
+    "sha256": "c7b40eb92aefb78bba970e8e3e6c68f66da9b6a6cf02ad050aa897c324898009",
+    "bytes": 3345
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/MLP/diagnostico_seed_73.json",
+    "sha256": "406671e311bb92fe4da3a407a79c4357d28607dbdacbfbc406578a84a9a24862",
+    "bytes": 3531
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/MLP/diagnosticos.jsonl",
+    "sha256": "fbb696c1034e78fb6ededa0f2f115ebcb5c806e00705611a96edb31ae9201db7",
+    "bytes": 1341033
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/MLP/diagnosticos_reajuste.json",
+    "sha256": "e634a5b71f583b02f2cdae2183837a0513347a912a505163c3e12163a5863686",
+    "bytes": 3509
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/MLP/divisoes_dias.csv",
+    "sha256": "9aa220f0e1bce1b50bcd5d50471435fd79ced866b25f0d684547fd516c76bcff",
+    "bytes": 17187
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/MLP/divisoes_resumo.csv",
+    "sha256": "33a2dfaff97fab3879cf22254e300ffbfa6f7f8662cc54d6b201a411bafdca24",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/MLP/estabilidade_metricas.csv",
+    "sha256": "23317c9d717dbddf6551851af01c77f44c1a4bd4280200ec1fb91f5f6359e2c1",
+    "bytes": 1405
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/MLP/metricas_externas.csv",
+    "sha256": "93f4c03ae38db1a22835e285c6e7765f5532344df59a0eaa09defbf86afd1ba7",
+    "bytes": 827
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/MLP/metricas_internas.csv",
+    "sha256": "eca29ad95f36764f62799a5d064717fe5b339c7460a5d99416b7f9d423f6a091",
+    "bytes": 126928
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/MLP/modelo.joblib",
+    "sha256": "05fe95539e7065145bb834b7134cf4963cf115764a2b4796cb92097888020b52",
+    "bytes": 20954
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/MLP/modelo_seed_17.joblib",
+    "sha256": "8507288a1354b1c348a9d4407a5f013ad7cf0a994060605ce9d157e44eac4622",
+    "bytes": 21006
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/MLP/modelo_seed_73.joblib",
+    "sha256": "1c2192b44cf4763962978b215b9b0de6ac54612455eabb496a639726dc58ba4d",
+    "bytes": 21036
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/MLP/predicoes_seed_17.csv",
+    "sha256": "97a318ad6a47b3918e7344a35cc728de85ad7e885f29a0a6a4b35c4abd4f3666",
+    "bytes": 70217
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/MLP/predicoes_seed_73.csv",
+    "sha256": "85df0cc65a901fd42438680e01caf7a19416a4e84755df08617beed79a648f8b",
+    "bytes": 70207
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/MLP/predicoes_teste.csv",
+    "sha256": "7a3cb56843fbefdf7ec6c4c66c1efa1208f8b4322cdfe154db299f9be4582562",
+    "bytes": 70222
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/SVR/busca.csv",
+    "sha256": "fbd68d70683ca1251d48aa657c5b5874acfb0c00af57c1f6afd3006fffaef889",
+    "bytes": 13779
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/SVR/concluido.json",
+    "sha256": "4e508652749b39a0c23e98bdc6a20de26ddd0aa7edfd439a519fd648c57322b6",
+    "bytes": 1230
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/SVR/diagnosticos.jsonl",
+    "sha256": "c9c17fd10473a29659b21f7f83685aaa22cb96cbb7d9f1a80573ca19898874b0",
+    "bytes": 144041
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/SVR/diagnosticos_reajuste.json",
+    "sha256": "a3a913c5e0dea334dcc8f980b09bbd5eafc04a2997763db21ea15b8b925d52bf",
+    "bytes": 677
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/SVR/divisoes_dias.csv",
+    "sha256": "9aa220f0e1bce1b50bcd5d50471435fd79ced866b25f0d684547fd516c76bcff",
+    "bytes": 17187
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/SVR/divisoes_resumo.csv",
+    "sha256": "33a2dfaff97fab3879cf22254e300ffbfa6f7f8662cc54d6b201a411bafdca24",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/SVR/metricas_externas.csv",
+    "sha256": "a64a5de280c285be9c4b1b87d4255b98f51654f005e46d7a80008ad6b73a0acf",
+    "bytes": 823
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/SVR/metricas_internas.csv",
+    "sha256": "d53d4ced2b8cb3504b90df95f876a113e6102d44607db648b8aba4f538b2e4d5",
+    "bytes": 169135
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/SVR/modelo.joblib",
+    "sha256": "032c18f0d3db74201a7b90d5411567e798ed52d48491d4811dddea866aa08d18",
+    "bytes": 31117
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/SVR/predicoes_teste.csv",
+    "sha256": "bdc72b00924e973b4d30a608013858f2121077ddd8f51407c0f49ad1f3487474",
+    "bytes": 70227
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/XGBoost/busca.csv",
+    "sha256": "15b7241f206dc1331315e4b777fdf69a7856abf7ce4d5fd8866902170fba12d5",
+    "bytes": 46054
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/XGBoost/concluido.json",
+    "sha256": "6531cab858fa8ae8bce2f493c9fbdcb324891fd769f1fedbcc2dd1acb6add568",
+    "bytes": 2059
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/XGBoost/diagnostico_seed_17.json",
+    "sha256": "d916ebc032f16f47052d3edb48cf8cd443f60b96ef2f90e812283e0ea8d86a94",
+    "bytes": 1411
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/XGBoost/diagnostico_seed_73.json",
+    "sha256": "382fbef6a109d8964c3756acc5f8bef518819d2559b7a15dafa5e2c90c509b40",
+    "bytes": 1411
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/XGBoost/diagnosticos.jsonl",
+    "sha256": "3dba1da3b63282fa841715435b5da8c9dca8307e486b30d7640ab4e3ae2f424f",
+    "bytes": 695364
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/XGBoost/diagnosticos_reajuste.json",
+    "sha256": "73834a585bf4d80656c374b27f1d180a451bd6cad3001da343cca53378d0dfca",
+    "bytes": 1551
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/XGBoost/divisoes_dias.csv",
+    "sha256": "9aa220f0e1bce1b50bcd5d50471435fd79ced866b25f0d684547fd516c76bcff",
+    "bytes": 17187
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/XGBoost/divisoes_resumo.csv",
+    "sha256": "33a2dfaff97fab3879cf22254e300ffbfa6f7f8662cc54d6b201a411bafdca24",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/XGBoost/estabilidade_metricas.csv",
+    "sha256": "5455579c42c9cb09f8781e4aa7f725cfae47adfc263091adc747ebed984ea872",
+    "bytes": 1421
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/XGBoost/metricas_externas.csv",
+    "sha256": "a1f77844090898aa0bbed38e6be5d879d7e86854fd5c350c9cdd6bd990d18477",
+    "bytes": 833
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/XGBoost/metricas_internas.csv",
+    "sha256": "8715f4fb97318f0e6e2947864a527a3564ebfa068f1c2c723fa5968cbe0a3864",
+    "bytes": 339982
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/XGBoost/modelo.joblib",
+    "sha256": "e52248003dce7745848650862002304796a748c6f63d6fa27b2a7aea8b709f10",
+    "bytes": 5643
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/XGBoost/modelo_seed_17.joblib",
+    "sha256": "61806f667fd5e95783a69b06aef84669699f6c0cba9960ec2e4af1d899a496a0",
+    "bytes": 5576
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/XGBoost/modelo_seed_73.joblib",
+    "sha256": "a030f638d0db87a08a72dd6a729bcec9c8f1a5f62b330df75978e36556171fa9",
+    "bytes": 5626
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/XGBoost/predicoes_seed_17.csv",
+    "sha256": "7e28351e949ed4491ee43a945d1ce56c988137669d5d8e6f43b78c7c015c9da7",
+    "bytes": 70203
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/XGBoost/predicoes_seed_73.csv",
+    "sha256": "31fe7a5d44f19c3558651c3ad7a3ce2fa5d5dd10b7ef85385396fa812a6aaea2",
+    "bytes": 70257
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-10/XGBoost/predicoes_teste.csv",
+    "sha256": "70d09e7465446498d26abf54136fb3d9c8bc0f625f76dd66feefeab61cabe374",
+    "bytes": 70213
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/KRR/busca.csv",
+    "sha256": "50d9b17238a0d3bca7a0bf69e8ac751ec4b3fac16cad9af15a55648ba79917ec",
+    "bytes": 8650
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/KRR/concluido.json",
+    "sha256": "e414f155b13e5828ffa27beec95b734dec246c9735dbfdd1d70f6eac5647eb0b",
+    "bytes": 1237
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/KRR/diagnosticos.jsonl",
+    "sha256": "b8460d5bd7ee2dca138af46a9069afdd3ac870dc60fd7e4226ebddb8e640c71a",
+    "bytes": 88209
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/KRR/diagnosticos_reajuste.json",
+    "sha256": "7457f840c9e0af7fdbb07011375b3bd5b16bb083b160a12894d668585b562a68",
+    "bytes": 559
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/KRR/divisoes_dias.csv",
+    "sha256": "259f60a65b7ce0e9e7d0602044aeb6aebc7fd79d216bd297138488a73410d56a",
+    "bytes": 17292
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/KRR/divisoes_resumo.csv",
+    "sha256": "b68178557591a83dc179fbea2c2ab786f96d37ce1c3ac76d98f5ab68cdb4afb3",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/KRR/metricas_externas.csv",
+    "sha256": "0a103ac57058bb3c6b81a4200ed9ff385e5293f0045facbd624bcdc5ba9e24b0",
+    "bytes": 822
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/KRR/metricas_internas.csv",
+    "sha256": "23ef6881a7be4d780f64bb41a7a987f8cd9ba3a2356a65a4844b81d36de3a392",
+    "bytes": 127905
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/KRR/modelo.joblib",
+    "sha256": "e1577c871fa7644e49ecd2e10f6d504c1c3c4f60b67f812565afc02292f121ca",
+    "bytes": 43947
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/KRR/predicoes_teste.csv",
+    "sha256": "a996f95809a5ad0059539cf26598bd8d79ad69c691eb0390876a3e9a4aa24358",
+    "bytes": 72732
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/MLP/busca.csv",
+    "sha256": "f3916a5c69d9829748ff3731b1ba634134b092534d9b026a1af4a2bebe4c90a0",
+    "bytes": 13516
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/MLP/concluido.json",
+    "sha256": "d04c51156c0fb694a49443ec72ba1a2dd96171fb1b3c4e591bd8ad754113c914",
+    "bytes": 1999
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/MLP/diagnostico_seed_17.json",
+    "sha256": "67e982b084294e503f8e9167d22215b5e8b5c2b35a1d80be011a7e950a96612c",
+    "bytes": 1963
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/MLP/diagnostico_seed_73.json",
+    "sha256": "f26779796b54ed4dd96d01b4332bf404d4a6d68302b5bb88abf46f6d6705a250",
+    "bytes": 2139
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/MLP/diagnosticos.jsonl",
+    "sha256": "ce4372215a72db7d59db0859e9eaba15888d4f8da3ddc5f1c89e7aef043fe41d",
+    "bytes": 611439
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/MLP/diagnosticos_reajuste.json",
+    "sha256": "aaf82cec99e5936f572d8842c76f78e732d67c230cd7d49dc4bd559480257265",
+    "bytes": 2796
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/MLP/divisoes_dias.csv",
+    "sha256": "259f60a65b7ce0e9e7d0602044aeb6aebc7fd79d216bd297138488a73410d56a",
+    "bytes": 17292
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/MLP/divisoes_resumo.csv",
+    "sha256": "b68178557591a83dc179fbea2c2ab786f96d37ce1c3ac76d98f5ab68cdb4afb3",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/MLP/estabilidade_metricas.csv",
+    "sha256": "b00e797338f0b2ea071c03406f0f59a486c1dd7ae075d7a053b9f3b425a6ef0c",
+    "bytes": 1403
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/MLP/metricas_externas.csv",
+    "sha256": "35031ee494771f0c7f5193cef891645b4d09b03c8c6a337e6a7473ec4b14dc6e",
+    "bytes": 825
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/MLP/metricas_internas.csv",
+    "sha256": "87895c63852e856c5a9620ec7e7f7832c4753422e2265da78afee811ac67129d",
+    "bytes": 127492
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/MLP/modelo.joblib",
+    "sha256": "6d3df202840263ce1e3fc8ca689bd96e7b29b8d057ac7e805402b4c9c918ec37",
+    "bytes": 20853
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/MLP/modelo_seed_17.joblib",
+    "sha256": "1eec76507ba4d93561a7879f5ee52e5630e6ce9a3c16796727949e493070eb87",
+    "bytes": 20648
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/MLP/modelo_seed_73.joblib",
+    "sha256": "d09a97d399ade54954e49db6e30aa92b2ab7c1f84a993ef55282ba35d10cf422",
+    "bytes": 20747
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/MLP/predicoes_seed_17.csv",
+    "sha256": "df817ff105521ffda63807ac0db2ba49de0d41df76361680baad16b3c3a51dcb",
+    "bytes": 72740
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/MLP/predicoes_seed_73.csv",
+    "sha256": "a96cf92ece1fda074d02c93ec7a0e8a721cc1c2312bdc3f6848783ee4ac11e03",
+    "bytes": 72770
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/MLP/predicoes_teste.csv",
+    "sha256": "025915a83e2488927e0ba315b8d8809a6db3a8350ee709d1a65019a1a048546c",
+    "bytes": 72733
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/SVR/busca.csv",
+    "sha256": "6ce1bf9fd9fa4a274d014e3661114600c4fe0b1fbb26fb552b2fb6eb36d352d8",
+    "bytes": 13779
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/SVR/concluido.json",
+    "sha256": "ee160f8fa758324c7e8d2057777000aeb93e70007970826934232f3542b9164f",
+    "bytes": 1229
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/SVR/diagnosticos.jsonl",
+    "sha256": "3a1004db3399ae5ccb9954ab487fa81a7145b47d975a0356dbcae840fa45ee65",
+    "bytes": 144039
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/SVR/diagnosticos_reajuste.json",
+    "sha256": "9293d3e53eeab24dd66a9db3dd1cdf19afef044bb23c42ac18038a68aa1825d4",
+    "bytes": 676
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/SVR/divisoes_dias.csv",
+    "sha256": "259f60a65b7ce0e9e7d0602044aeb6aebc7fd79d216bd297138488a73410d56a",
+    "bytes": 17292
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/SVR/divisoes_resumo.csv",
+    "sha256": "b68178557591a83dc179fbea2c2ab786f96d37ce1c3ac76d98f5ab68cdb4afb3",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/SVR/metricas_externas.csv",
+    "sha256": "1eff5b86609fc6d10806f227331e39a6c6d1ace10ef5cff4400610a86ac3d84a",
+    "bytes": 819
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/SVR/metricas_internas.csv",
+    "sha256": "eb87ae9be0232b9fa2e614057929b05c9a9fc44e9deaef5dabce9ed2c9c07d83",
+    "bytes": 169895
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/SVR/modelo.joblib",
+    "sha256": "fc600d024afc7e3151afcc173065abb4f629fdc31d220fafe1666266d3d4a1c1",
+    "bytes": 32920
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/SVR/predicoes_teste.csv",
+    "sha256": "3bcc505350f85e79a832114328513f8df09c6b47f6e2ac225f733f677131a25f",
+    "bytes": 72703
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/XGBoost/busca.csv",
+    "sha256": "a711a457a3a98b18e20d4e281e07c7108036a6f99538921099c69bf2eda5ebe4",
+    "bytes": 46069
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/XGBoost/concluido.json",
+    "sha256": "63b4c9f72a2362b5c66b2b35658d8f069efebd9658da2a98a9dc891cfc833de1",
+    "bytes": 2059
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/XGBoost/diagnostico_seed_17.json",
+    "sha256": "098c56e776abf9d65064f5c7d6026bd9b9554fbe4b11e934c251c2e43256298f",
+    "bytes": 1411
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/XGBoost/diagnostico_seed_73.json",
+    "sha256": "242d49364a1695a42b29b61b76223fbd88f68eadf95bb25de055474089272ba9",
+    "bytes": 1411
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/XGBoost/diagnosticos.jsonl",
+    "sha256": "b36e94661d1eeb42c3096d9b3eed42784a7be02a5cd32b5d7fac6584ae364924",
+    "bytes": 695332
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/XGBoost/diagnosticos_reajuste.json",
+    "sha256": "b3945d8cff386c1a567915f3c765686f75fb3aecf5e9f0ebbcca7522b1aca8f0",
+    "bytes": 1551
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/XGBoost/divisoes_dias.csv",
+    "sha256": "259f60a65b7ce0e9e7d0602044aeb6aebc7fd79d216bd297138488a73410d56a",
+    "bytes": 17292
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/XGBoost/divisoes_resumo.csv",
+    "sha256": "b68178557591a83dc179fbea2c2ab786f96d37ce1c3ac76d98f5ab68cdb4afb3",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/XGBoost/estabilidade_metricas.csv",
+    "sha256": "10aad5dc762ddc02f2cc5020dea3c3b21c7881b8ed1922bcd45763d2b55b5536",
+    "bytes": 1400
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/XGBoost/metricas_externas.csv",
+    "sha256": "76196f43c7954fe3cb89f8f4388b21185de897ffab1445e33419aba650ccacad",
+    "bytes": 819
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/XGBoost/metricas_internas.csv",
+    "sha256": "a2a1f92dda5623b5b4873771e14f799364582b4c6053f6daafae5982f1447457",
+    "bytes": 341263
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/XGBoost/modelo.joblib",
+    "sha256": "190adc91b6034e892c467d8d367b3975a4d443350c50bc506ae260ed837d533b",
+    "bytes": 5621
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/XGBoost/modelo_seed_17.joblib",
+    "sha256": "99bb79c02b2144db6b82323f754e3d03f09b35e0332e3be86cbe036079c60fb6",
+    "bytes": 5607
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/XGBoost/modelo_seed_73.joblib",
+    "sha256": "313e02f7dce497132e2961c3e42f19460464f93e9e82136ba35f4e56a79caff2",
+    "bytes": 5623
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/XGBoost/predicoes_seed_17.csv",
+    "sha256": "e2bcba78bc3ac00ca96a02458497426ce9c2c5d1b2ebbaf228dcf091851130a2",
+    "bytes": 72727
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/XGBoost/predicoes_seed_73.csv",
+    "sha256": "053f5c7e88403338bee0bfb509b059a4a1394453090adae2be7a9cccbd4a9181",
+    "bytes": 72805
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-11/XGBoost/predicoes_teste.csv",
+    "sha256": "37f0e2390cfd66664c15739f9e676a3e12d7ff6c61555c48632c20fc7b26e501",
+    "bytes": 72783
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/KRR/busca.csv",
+    "sha256": "d638310e904acdbeed288b5677c1526aecd3852d7a64a9d8c1e2bd64a7211432",
+    "bytes": 8646
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/KRR/concluido.json",
+    "sha256": "2e921d781d2f19879d3077b7ea91bf50e82caca1e7b26ccbe8e21df31504b8e1",
+    "bytes": 1237
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/KRR/diagnosticos.jsonl",
+    "sha256": "1a58088b50869491cef4e8b6a8816fc83af635c49d134335ea568c66fc970083",
+    "bytes": 88129
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/KRR/diagnosticos_reajuste.json",
+    "sha256": "70b7b0d1dfbe75acc1380942d5a727b950b8effb0de39362ad85a7bd889910a5",
+    "bytes": 559
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/KRR/divisoes_dias.csv",
+    "sha256": "2ad2b3aacbb495d9cefe116af34f71bdbbfe2f1608b5906becc11f2c5109e621",
+    "bytes": 17187
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/KRR/divisoes_resumo.csv",
+    "sha256": "602b6f25288910c4afca177f4dd6a0c64e3045ff36e6fc9d5a8ba40108069c2c",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/KRR/metricas_externas.csv",
+    "sha256": "2b612d3f5df9607ad827f0c6484a087c4455dd60884a9ec24b6e99817345e646",
+    "bytes": 835
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/KRR/metricas_internas.csv",
+    "sha256": "d6f8d950defc38200e33d3026d1e4115a5ca76a2c54825675c878b15cf0bea74",
+    "bytes": 127412
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/KRR/modelo.joblib",
+    "sha256": "50fa810bad028f557ec0005d12062274b6f9e43f83f7a8b5e73911d3d046c9cf",
+    "bytes": 43617
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/KRR/predicoes_teste.csv",
+    "sha256": "549223edada734f9d2d1f047fdd7a33c742539bc8ca18c813b88ee8fb3cee27a",
+    "bytes": 77342
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/MLP/busca.csv",
+    "sha256": "cdb23a988769107fe2aaa891cd9e1c457c05e568308ad24f35c2703c502ced99",
+    "bytes": 13523
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/MLP/concluido.json",
+    "sha256": "8796cbf28e5efbca391ae2fd1d012abaff046aa14222b54303ce8b00eb585f80",
+    "bytes": 1999
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/MLP/diagnostico_seed_17.json",
+    "sha256": "d5fcc7d468323d7df245ee34ff09c28bb923e5576c65bd7e8fd3b234e993ed0e",
+    "bytes": 3403
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/MLP/diagnostico_seed_73.json",
+    "sha256": "bc789a19bd52b710e7626fbbe54aaa47a48b658ccd00abfafcd6b243ca2fcd7b",
+    "bytes": 2743
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/MLP/diagnosticos.jsonl",
+    "sha256": "ddfb7be611789444733621a49d8a1749de19cc44fbf411427aeb8e34016f93f1",
+    "bytes": 1308831
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/MLP/diagnosticos_reajuste.json",
+    "sha256": "ae4386d73522e620cf82f03a0aa403dbc1903d0bc4b9bfd4e7c9faf62992e021",
+    "bytes": 3384
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/MLP/divisoes_dias.csv",
+    "sha256": "2ad2b3aacbb495d9cefe116af34f71bdbbfe2f1608b5906becc11f2c5109e621",
+    "bytes": 17187
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/MLP/divisoes_resumo.csv",
+    "sha256": "602b6f25288910c4afca177f4dd6a0c64e3045ff36e6fc9d5a8ba40108069c2c",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/MLP/estabilidade_metricas.csv",
+    "sha256": "9adcbabe3c4c265259ef4f80ff4b75d6b6d9fa7890f3a28d83a442306d981616",
+    "bytes": 1424
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/MLP/metricas_externas.csv",
+    "sha256": "e4cf21f4b007a82783b3bf16ecf492d261ae36ff8a4660ccced934cf86b8a14b",
+    "bytes": 826
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/MLP/metricas_internas.csv",
+    "sha256": "880cada9d6c8d87911b3e10bb1a19f774129bc46ab1397411c49e1bde987e478",
+    "bytes": 126945
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/MLP/modelo.joblib",
+    "sha256": "c06c9331b2cc41dd38a33219bf477a00f17a49b888841ac3d9445bdf3757b338",
+    "bytes": 6111
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/MLP/modelo_seed_17.joblib",
+    "sha256": "0155d8066c5ad15e75b0d949d044491c0e77a45629f419b5d320b98876cb608d",
+    "bytes": 6189
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/MLP/modelo_seed_73.joblib",
+    "sha256": "4fa7b4fdffc497c33061d2892093e76e3b2f65405c2533dcf0a5cd25194a4ce5",
+    "bytes": 6003
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/MLP/predicoes_seed_17.csv",
+    "sha256": "c8fa849e3e9175c5642fdad80f1fcfb659bb0faa79a66431d32d2bb98e169b7d",
+    "bytes": 77334
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/MLP/predicoes_seed_73.csv",
+    "sha256": "3bb94848e713b1c33d7e038e93f43f07e8f0c0dbac66ada259eb96cd911f1075",
+    "bytes": 77346
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/MLP/predicoes_teste.csv",
+    "sha256": "66bb9d62bbc3b6c6e1395c9fa92837a1c77793eb32629b690ba346b9765017cc",
+    "bytes": 77296
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/SVR/busca.csv",
+    "sha256": "3c1353a8a826830744c179bc9d746f3f2806086ac9956042267dd277e5272787",
+    "bytes": 13791
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/SVR/concluido.json",
+    "sha256": "e24a7993f7d302fd258d0359c74f9c12c993c20813eef508303184253c91a601",
+    "bytes": 1229
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/SVR/diagnosticos.jsonl",
+    "sha256": "89f84c4bca884a4a1cb672ac1047c32294d60ec0d48a93e83a1989c685df0c80",
+    "bytes": 143920
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/SVR/diagnosticos_reajuste.json",
+    "sha256": "617c40448e23bd3e93a830662e92f8af77420cdf5e70de2ab483cc5014b0394f",
+    "bytes": 676
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/SVR/divisoes_dias.csv",
+    "sha256": "2ad2b3aacbb495d9cefe116af34f71bdbbfe2f1608b5906becc11f2c5109e621",
+    "bytes": 17187
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/SVR/divisoes_resumo.csv",
+    "sha256": "602b6f25288910c4afca177f4dd6a0c64e3045ff36e6fc9d5a8ba40108069c2c",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/SVR/metricas_externas.csv",
+    "sha256": "0a78dc97975d159a4a970dd559747b45c4cf30ece118c835452f1062900634cc",
+    "bytes": 830
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/SVR/metricas_internas.csv",
+    "sha256": "09e2e00c6557c44c84bbf50a48ccada5bfca0038e8319dbc254e4a6ce008159b",
+    "bytes": 169145
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/SVR/modelo.joblib",
+    "sha256": "fee3d3d0f6754456a424f552fb758b7676041dbb0d0094b30c0f53102c3a3db8",
+    "bytes": 32665
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/SVR/predicoes_teste.csv",
+    "sha256": "138790ee1c3e20e8e3e462a1df70183c5bd408c94f4f489a633fa8204d68b260",
+    "bytes": 77343
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/XGBoost/busca.csv",
+    "sha256": "8378bd87f1ec47e32fb74bd36b06d6ba91af308cac237e34e09fd9f1d7f9c086",
+    "bytes": 46046
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/XGBoost/concluido.json",
+    "sha256": "8dae26356c5b106eb941b756f587d61beaeb4244bd0c48dfc26d81df55116171",
+    "bytes": 2058
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/XGBoost/diagnostico_seed_17.json",
+    "sha256": "1bceffd261eac38d5473d936acc9948d0cef48852680699734b7ffa3399b014a",
+    "bytes": 1409
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/XGBoost/diagnostico_seed_73.json",
+    "sha256": "817f2919509a8ecabf41331f229ef8b36557acbf4e5213fd52defc620dc3211d",
+    "bytes": 1410
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/XGBoost/diagnosticos.jsonl",
+    "sha256": "de3942d4cc0d68803f3aa9c6a544d13aba57347eb42b2d0288dedab24289a127",
+    "bytes": 695161
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/XGBoost/diagnosticos_reajuste.json",
+    "sha256": "2b9bbdc83882d10eaad50404787a1ae2607175aac0dcc9b85fce814d493986fd",
+    "bytes": 1550
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/XGBoost/divisoes_dias.csv",
+    "sha256": "2ad2b3aacbb495d9cefe116af34f71bdbbfe2f1608b5906becc11f2c5109e621",
+    "bytes": 17187
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/XGBoost/divisoes_resumo.csv",
+    "sha256": "602b6f25288910c4afca177f4dd6a0c64e3045ff36e6fc9d5a8ba40108069c2c",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/XGBoost/estabilidade_metricas.csv",
+    "sha256": "a2235f9b2a1b0634c6e441e278111b5ac8a8869b016e10dadf761661800f4fdd",
+    "bytes": 1416
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/XGBoost/metricas_externas.csv",
+    "sha256": "85d2f36edb3b5be1a9afd991a89b6bb5ac5dc2599beddaa9b966df17031cb6ef",
+    "bytes": 827
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/XGBoost/metricas_internas.csv",
+    "sha256": "0f461fe5f2d72617f26983eb2ce3769357b7bd28d5181fa359a0f8a5be5d97a4",
+    "bytes": 339947
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/XGBoost/modelo.joblib",
+    "sha256": "cb91fbe85ff3aae3df147150265f0aa4a35c702ca8579dcc5f50291bded3f1ac",
+    "bytes": 18662
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/XGBoost/modelo_seed_17.joblib",
+    "sha256": "f59838142740749db76c655bb6042d703b9f6fa33c24de6006f41fdde58c2308",
+    "bytes": 18663
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/XGBoost/modelo_seed_73.joblib",
+    "sha256": "7481470ba8a04fe47388af6e43ba09b78c3547e5af0a1404b3b8c61513ed4ad2",
+    "bytes": 18662
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/XGBoost/predicoes_seed_17.csv",
+    "sha256": "de5c6ce6971bbfabbcce0df8c30ba21b78816ded5a6a42575c7423ee747be650",
+    "bytes": 77360
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/XGBoost/predicoes_seed_73.csv",
+    "sha256": "de5c6ce6971bbfabbcce0df8c30ba21b78816ded5a6a42575c7423ee747be650",
+    "bytes": 77360
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2024-12/XGBoost/predicoes_teste.csv",
+    "sha256": "de5c6ce6971bbfabbcce0df8c30ba21b78816ded5a6a42575c7423ee747be650",
+    "bytes": 77360
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/KRR/busca.csv",
+    "sha256": "e0aea6320e6d9ee1d32eb5e39ce3a601be5a6bd2aa158c82ee3c115021612e8e",
+    "bytes": 8649
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/KRR/concluido.json",
+    "sha256": "01b46bc33c91737930bb9686241a0a77a4d36697b7d7e6e7780a63c848742490",
+    "bytes": 1199
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/KRR/diagnosticos.jsonl",
+    "sha256": "a0d7757f87790411d7a00c2c025b632b511d29cab465e61e8224f4feb9e3d6c2",
+    "bytes": 88151
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/KRR/diagnosticos_reajuste.json",
+    "sha256": "79b9a09cbc09f15fd7035f5912fa6fe252d9863553922672464d5e7cf9184bd5",
+    "bytes": 554
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/KRR/divisoes_dias.csv",
+    "sha256": "f93266da0c760acafa8f16b7360a7f168ef858b1a21260db3a58c7d15b0f9d72",
+    "bytes": 17187
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/KRR/divisoes_resumo.csv",
+    "sha256": "d013cff8be7dfcbb6aff24ca26b7ab01c5b782631a43df3511056bb0f14866a1",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/KRR/metricas_externas.csv",
+    "sha256": "297b0b4cfb8ab4de67b4f9d6d5f3e7287da377fee8634a66ca84bea36c627e35",
+    "bytes": 824
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/KRR/metricas_internas.csv",
+    "sha256": "b8e61308301416a7e317b93fb814063113547d63ed5da437643bb53747842c0a",
+    "bytes": 127340
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/KRR/modelo.joblib",
+    "sha256": "c400030d2c3cddb94112ab5e1af207efdf3d22279b73f218be89457c77022ff7",
+    "bytes": 43634
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/KRR/predicoes_teste.csv",
+    "sha256": "3a107bfc19d05f081d1354c4aa53f804717e6c74ebc2ea30b3d7b31eac8e09d2",
+    "bytes": 78440
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/MLP/busca.csv",
+    "sha256": "3bf07a8f799db6c6b6b2b453adb590c118922d1c092a68396ed18dfd589f66c2",
+    "bytes": 13511
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/MLP/concluido.json",
+    "sha256": "6435cad7f947849d55fedde95cc38522a793eb02e035702ab26f649ea07fc8f3",
+    "bytes": 2002
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/MLP/diagnostico_seed_17.json",
+    "sha256": "ff277ac1d67de2516e95c8a03b5afd6baf400b9e250578695b86ce716b1aa4f3",
+    "bytes": 2918
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/MLP/diagnostico_seed_73.json",
+    "sha256": "07e36337d45eaba3d4ea8d3006c5391c14a3d6a2bccf30471e7783557d5569dd",
+    "bytes": 3384
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/MLP/diagnosticos.jsonl",
+    "sha256": "cd0f820ba69ec11bf91f6ec81abab37ae91995e739d8fc704f8e853111dc5a53",
+    "bytes": 1317798
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/MLP/diagnosticos_reajuste.json",
+    "sha256": "b7f4232307bd72f4bda3bc0a15e615ade726a0affce6c69e78f46badf07d507b",
+    "bytes": 3386
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/MLP/divisoes_dias.csv",
+    "sha256": "f93266da0c760acafa8f16b7360a7f168ef858b1a21260db3a58c7d15b0f9d72",
+    "bytes": 17187
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/MLP/divisoes_resumo.csv",
+    "sha256": "d013cff8be7dfcbb6aff24ca26b7ab01c5b782631a43df3511056bb0f14866a1",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/MLP/estabilidade_metricas.csv",
+    "sha256": "85a64cfdd8f4964cbdafbcaa4de671a2058af7e9ed2297946ee12b4db4525b51",
+    "bytes": 1392
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/MLP/metricas_externas.csv",
+    "sha256": "a6e71d4c612996b04eda339bad2c564ca26d523ed2e668d92a263a6e52172a78",
+    "bytes": 824
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/MLP/metricas_internas.csv",
+    "sha256": "3fc8811789497403e54446bcd6775c724b5bc5e4b8f8bc777c9427b546ba1984",
+    "bytes": 126941
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/MLP/modelo.joblib",
+    "sha256": "0a97cd47fd452d9220d2fddf912f81f569c6c5a73273c5cc21fad2e3f93d9761",
+    "bytes": 20920
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/MLP/modelo_seed_17.joblib",
+    "sha256": "3e9d1b4967e8253decd72bd8ee094ea69a622c86a2d986268158d80422704e59",
+    "bytes": 20888
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/MLP/modelo_seed_73.joblib",
+    "sha256": "fdc0e60cf9bd1861d4fd72d392184f299528aa01dbfea34b2accb98823f192a1",
+    "bytes": 21027
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/MLP/predicoes_seed_17.csv",
+    "sha256": "cfa58275bab15922309275234ad1b4433d14f7f20c1b636d2258ca2332e8197c",
+    "bytes": 78392
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/MLP/predicoes_seed_73.csv",
+    "sha256": "bd35373180919dcf4f99edbb2376eccdfc54fd9b5c9513f18b943e7c290181bc",
+    "bytes": 78424
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/MLP/predicoes_teste.csv",
+    "sha256": "b85145da789e12964ac35ee245a5793d976d06ca8320a8dbe3d53bb5befeea4e",
+    "bytes": 78438
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/SVR/busca.csv",
+    "sha256": "462a192a6b25461f24afc32b47259d43135cc7d1e70d85b73f5bca23f57d8920",
+    "bytes": 13787
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/SVR/concluido.json",
+    "sha256": "b7a6543ea8077ebf722d60661e0451e2b5f9633c99761091dc80b3c28e5163f6",
+    "bytes": 1229
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/SVR/diagnosticos.jsonl",
+    "sha256": "cea88d6a0c1d8b3e533395c6b0987f2b661be5875b634410d8cdfbf3190b836e",
+    "bytes": 143928
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/SVR/diagnosticos_reajuste.json",
+    "sha256": "86f7afc4c8c09bd961e288c8fdec51d82544fbc98c2c42f6cb23c94c3d0861f2",
+    "bytes": 676
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/SVR/divisoes_dias.csv",
+    "sha256": "f93266da0c760acafa8f16b7360a7f168ef858b1a21260db3a58c7d15b0f9d72",
+    "bytes": 17187
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/SVR/divisoes_resumo.csv",
+    "sha256": "d013cff8be7dfcbb6aff24ca26b7ab01c5b782631a43df3511056bb0f14866a1",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/SVR/metricas_externas.csv",
+    "sha256": "f82a3b72f4fbcd12fd6cb7f9a21799b0bbd9306dccb54253e6d929c5f5474c2f",
+    "bytes": 819
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/SVR/metricas_internas.csv",
+    "sha256": "f431578762b80895ad559b947446f23ace74f7e798912063e9efab4911f71d1a",
+    "bytes": 168991
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/SVR/modelo.joblib",
+    "sha256": "7c53a00366522d4fdf381ab9fa9718afb5a79e243afa4d4ee791e2432db2bc31",
+    "bytes": 32807
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/SVR/predicoes_teste.csv",
+    "sha256": "7ae7588ea4919f8c2f852aa6f27ef3e89790ae6f7734c123a76a3118fb431939",
+    "bytes": 78418
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/XGBoost/busca.csv",
+    "sha256": "780e7ffb7047307361b0c23d697a0f659c0262d04122569d1b71ace72ab501be",
+    "bytes": 46054
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/XGBoost/concluido.json",
+    "sha256": "eca3dcd402c0c9eb2e29c24b815cd1995575cf5027ca60a72465f01a8acdc412",
+    "bytes": 2059
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/XGBoost/diagnostico_seed_17.json",
+    "sha256": "c4eb2fb55a15a6d35526061707f744b965e49ecec83309a768d0ff45f202433a",
+    "bytes": 1410
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/XGBoost/diagnostico_seed_73.json",
+    "sha256": "ee89da1fd4475793f0a49616dc8fc67fd091985d428fcbaaa143276fb39ca56a",
+    "bytes": 1410
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/XGBoost/diagnosticos.jsonl",
+    "sha256": "f396850f61c13a2cbc123f25695c8be5e71b99367e7797e1cfd511f7fb89f4c2",
+    "bytes": 695159
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/XGBoost/diagnosticos_reajuste.json",
+    "sha256": "35614c137319951a77c46c08a3165d5ed33c4bb895c35f688a4ce0f2f4734eb3",
+    "bytes": 1551
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/XGBoost/divisoes_dias.csv",
+    "sha256": "f93266da0c760acafa8f16b7360a7f168ef858b1a21260db3a58c7d15b0f9d72",
+    "bytes": 17187
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/XGBoost/divisoes_resumo.csv",
+    "sha256": "d013cff8be7dfcbb6aff24ca26b7ab01c5b782631a43df3511056bb0f14866a1",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/XGBoost/estabilidade_metricas.csv",
+    "sha256": "2cf83c0e2388d756d7a813fb4ff19deef04377edde2c6f0c5b4669c857692c34",
+    "bytes": 1400
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/XGBoost/metricas_externas.csv",
+    "sha256": "0bf0188c1b6bd516e04cd902138afeff16c7f836eb813916bf0cca0755f4f2c2",
+    "bytes": 823
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/XGBoost/metricas_internas.csv",
+    "sha256": "f809bb1fc77ac4c175345d5da4709fdedf047371b413fdc967faadeef7351315",
+    "bytes": 339828
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/XGBoost/modelo.joblib",
+    "sha256": "823d6b2277817df4ff5a4d076b15d614b174b4ce7b9f2b272bee032fc1aa7da4",
+    "bytes": 5604
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/XGBoost/modelo_seed_17.joblib",
+    "sha256": "89eb81c36759a1b8ef00e677549f80820d36d43f71fa40c4c9895319a0a4b0ae",
+    "bytes": 5610
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/XGBoost/modelo_seed_73.joblib",
+    "sha256": "fea167529289b758ef5b88fc00d71f613228c74a8d0b0609345abe21c3a3f301",
+    "bytes": 5626
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/XGBoost/predicoes_seed_17.csv",
+    "sha256": "270de950c88c310899e13650e4c84e057e6325ad656839c80dbe7bb068847bd2",
+    "bytes": 78424
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/XGBoost/predicoes_seed_73.csv",
+    "sha256": "e9943988298ad1801b2d4a665c442a951f4eff19ed94c02589505f215e491ee2",
+    "bytes": 78574
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-01/XGBoost/predicoes_teste.csv",
+    "sha256": "85b2f4c48abc94732b29ebb0bd0c86a6b2cc7334ad94219563e18ad49c3acc16",
+    "bytes": 78376
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/KRR/busca.csv",
+    "sha256": "98c79939ec76eb0712351f7971cc5be5fa4d5ef063a00c8178eec1e79b6b191a",
+    "bytes": 8645
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/KRR/concluido.json",
+    "sha256": "2566a0c1fb87f15f49fc500983afeb6212efa0c95ab96c662d29de77771556f6",
+    "bytes": 1199
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/KRR/diagnosticos.jsonl",
+    "sha256": "2a04929eb3b7b489b95769eb05748294f41ea4b3d5c6a9dec846cd4d11e30046",
+    "bytes": 88225
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/KRR/diagnosticos_reajuste.json",
+    "sha256": "c8ec17c1867ab57f15eadc8ddbba0ac151edd5f437e73c8826d3019aec7694bd",
+    "bytes": 554
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/KRR/divisoes_dias.csv",
+    "sha256": "b3c1e2d71e5edaaa674da3b16031ab05dfd5ed57e7e2319fdb8a6293930c05eb",
+    "bytes": 17473
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/KRR/divisoes_resumo.csv",
+    "sha256": "e26467d5061a758a74dc55fa813639fed63ec2fdf8baed39997239d044c3ce89",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/KRR/metricas_externas.csv",
+    "sha256": "b65438f5d2f4b13ba8444d43e665f2fe8d4e4245ece02741152a86f0ad108dd0",
+    "bytes": 830
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/KRR/metricas_internas.csv",
+    "sha256": "a9f199eaad8ef67f9d4828e6e91f5348ef46b5d9a241f2c33230ec7df1ffd29a",
+    "bytes": 127540
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/KRR/modelo.joblib",
+    "sha256": "2038386a160571fcf53c2d07f170519a6fb8ccd75352eec35f4403ebe8a19f06",
+    "bytes": 44643
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/KRR/predicoes_teste.csv",
+    "sha256": "b9aab43c5f8843c34f9c817684e9247a68e1f0022f37af03497525a83cf0b4d0",
+    "bytes": 63623
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/MLP/busca.csv",
+    "sha256": "6135f750278e54cef7c429004a17fe2770440cc2b631fa13683d27a3370127ff",
+    "bytes": 13520
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/MLP/concluido.json",
+    "sha256": "786fa3694158bc912d3e20ec5265adbfcba7f6b8ac6379838ac491334ac0412c",
+    "bytes": 2003
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/MLP/diagnostico_seed_17.json",
+    "sha256": "132f6aab59f2b784bed09d3b80a805cb8d052974897ac1e1f66e7278d5065634",
+    "bytes": 2685
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/MLP/diagnostico_seed_73.json",
+    "sha256": "97a948335ae9fa2cc8e97a5ee41e955aa9a04fb000b9089db023bdc120c96044",
+    "bytes": 3904
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/MLP/diagnosticos.jsonl",
+    "sha256": "dd0128ff18fb89f716a89885486c4d8df0535d3ad05acbce9b30dd27b85e43e5",
+    "bytes": 1312030
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/MLP/diagnosticos_reajuste.json",
+    "sha256": "cf2b2970d1182ea34e59d5fb85a9c1566bf2d1c18b6cb25401e237c1d1a56d9b",
+    "bytes": 2952
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/MLP/divisoes_dias.csv",
+    "sha256": "b3c1e2d71e5edaaa674da3b16031ab05dfd5ed57e7e2319fdb8a6293930c05eb",
+    "bytes": 17473
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/MLP/divisoes_resumo.csv",
+    "sha256": "e26467d5061a758a74dc55fa813639fed63ec2fdf8baed39997239d044c3ce89",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/MLP/estabilidade_metricas.csv",
+    "sha256": "614771bd1b5f934f2bcf19214cc942bf3a03d6b28ee4527b6808cdcf24c28f59",
+    "bytes": 1418
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/MLP/metricas_externas.csv",
+    "sha256": "1c2a6a6838ccc9383558dc69c31bf61edc98d9043a28d29694049ee556f182bc",
+    "bytes": 828
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/MLP/metricas_internas.csv",
+    "sha256": "f4d610d7697122696da40036702de036d70cfcaa99a5bf2a29eb7851b05b4371",
+    "bytes": 127055
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/MLP/modelo.joblib",
+    "sha256": "9d06bec66e0133488c7b659150ac1c94c6f479d8734475ff772a31ee0ad7e094",
+    "bytes": 20869
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/MLP/modelo_seed_17.joblib",
+    "sha256": "131760c59f50ec41b14de38a7720344b64d5c0f4198baa3cef45be6a82d958a9",
+    "bytes": 20854
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/MLP/modelo_seed_73.joblib",
+    "sha256": "130960a1000150c5be4595de9893920f5efbd8aa7579667ea5624f1cf61f08e3",
+    "bytes": 21219
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/MLP/predicoes_seed_17.csv",
+    "sha256": "96fe5b3fed3339b70ee6901aabdbbd5a75f0f443e1f9b2e0cff7ad653100c5f5",
+    "bytes": 63673
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/MLP/predicoes_seed_73.csv",
+    "sha256": "b8c4e73a3faac0c9fef6a8b6df483f913c561422279eebda37f1bd5dcc69bad2",
+    "bytes": 63631
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/MLP/predicoes_teste.csv",
+    "sha256": "402ab2605a6ac6d4803cc11e7f4b5192947522ce6ab4f79b33001b1bffd05455",
+    "bytes": 63694
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/SVR/busca.csv",
+    "sha256": "a768f6c2feeece402bc09beccd8a263d24080552343f8f8256494fbd2a23349c",
+    "bytes": 13780
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/SVR/concluido.json",
+    "sha256": "c3c07fee95419fbcebb5d077c7adc9b5f1ca9b7ddd643faa980ba22068d81871",
+    "bytes": 1228
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/SVR/diagnosticos.jsonl",
+    "sha256": "9f9aea277ee655ba8ea1c386d2b35a6b3d7da97cb55972706572c80e16fd81f5",
+    "bytes": 144006
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/SVR/diagnosticos_reajuste.json",
+    "sha256": "f5b326e34b02fc6effaea63d939980845a7659c82d77d4e2d4a4d5414f4a7cc5",
+    "bytes": 675
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/SVR/divisoes_dias.csv",
+    "sha256": "b3c1e2d71e5edaaa674da3b16031ab05dfd5ed57e7e2319fdb8a6293930c05eb",
+    "bytes": 17473
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/SVR/divisoes_resumo.csv",
+    "sha256": "e26467d5061a758a74dc55fa813639fed63ec2fdf8baed39997239d044c3ce89",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/SVR/metricas_externas.csv",
+    "sha256": "8f097b834d0eca053ba20c70014320955731e6fec844de980ae9ac66f8b996e1",
+    "bytes": 826
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/SVR/metricas_internas.csv",
+    "sha256": "a749313b8e9e918729ad3b15c9a6ab285f4c737619abf694753fb55225ad9e78",
+    "bytes": 169199
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/SVR/modelo.joblib",
+    "sha256": "ede0bbb42473580d4e7231b1c57a452ea93dae3ff02fbc9356f4fcc3687e24d2",
+    "bytes": 33247
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/SVR/predicoes_teste.csv",
+    "sha256": "092a722df8d9fff894e88e48218f2a7fc6fbb644fdfde39d6937e703cd8cd543",
+    "bytes": 63643
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/XGBoost/busca.csv",
+    "sha256": "b572e1fb8b11d8ede53104fe0b6c367f317368bc625a862fe0c33bb51835ed23",
+    "bytes": 46053
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/XGBoost/concluido.json",
+    "sha256": "f5ae17f55b1b635495ab06fe8af37ecc0a30c020b9dd740f5eaee5d3b0937845",
+    "bytes": 2059
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/XGBoost/diagnostico_seed_17.json",
+    "sha256": "a758d664e98a5273fc18475dd397ec131dab1cf49ddf4eed2a9e38dd43e585cc",
+    "bytes": 1412
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/XGBoost/diagnostico_seed_73.json",
+    "sha256": "749dc3df0310e3cb87cbf0d0588f251ec32ad778947acbad3f40b1389f795d31",
+    "bytes": 1411
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/XGBoost/diagnosticos.jsonl",
+    "sha256": "4acdddeff29aaa1678900722495889cbf36ec381512bbdd04c17c48ca32a6fd7",
+    "bytes": 695338
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/XGBoost/diagnosticos_reajuste.json",
+    "sha256": "f0c92508ca21ed609c5dae5a3e455691cfab466d76da7e323fffe8c6e1869a27",
+    "bytes": 1552
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/XGBoost/divisoes_dias.csv",
+    "sha256": "b3c1e2d71e5edaaa674da3b16031ab05dfd5ed57e7e2319fdb8a6293930c05eb",
+    "bytes": 17473
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/XGBoost/divisoes_resumo.csv",
+    "sha256": "e26467d5061a758a74dc55fa813639fed63ec2fdf8baed39997239d044c3ce89",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/XGBoost/estabilidade_metricas.csv",
+    "sha256": "50d2b0eafaca747f0c3a9858a6439fb1dc0da7c5f0e46f01493898c47ba89796",
+    "bytes": 1428
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/XGBoost/metricas_externas.csv",
+    "sha256": "3012e3818ea8c2a36e5dc105e9efed25ef6f30f6bd04fa584555642b4f74b237",
+    "bytes": 834
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/XGBoost/metricas_internas.csv",
+    "sha256": "c7cc8b039040abe111a24c1cd53557cccefa229faf9d2bf5923d166b94d45120",
+    "bytes": 339916
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/XGBoost/modelo.joblib",
+    "sha256": "3ead628ee9e3b7d4e22db39c29aca5a12568a0e674e0ff16b5c0344a2e90e1a1",
+    "bytes": 19575
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/XGBoost/modelo_seed_17.joblib",
+    "sha256": "3a1c75d54335fc28edb799ad8edc861c0d03de44f76c77ccf576a24bee5b2130",
+    "bytes": 19570
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/XGBoost/modelo_seed_73.joblib",
+    "sha256": "232b5711bea29a1b17b57647d31b32b648e7a51ff492ef832f79f2000dd5977d",
+    "bytes": 19744
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/XGBoost/predicoes_seed_17.csv",
+    "sha256": "2b37bdba5a47347aba5a6f1663fe9c5c75557f3052b3993247038176aea42ab3",
+    "bytes": 63591
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/XGBoost/predicoes_seed_73.csv",
+    "sha256": "5e15ee395be5af18fd385d8f6e332ab85e2e2f6b4495968c49c2d6ca2c236d8d",
+    "bytes": 63651
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-02/XGBoost/predicoes_teste.csv",
+    "sha256": "b757aad573f99b5cb0d8d13b6be99e2dd35f4f0b25118219a5341ea5337738e9",
+    "bytes": 63559
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/KRR/busca.csv",
+    "sha256": "d74ee7b8b0fc0475512a380f6d6ec8ae9e0833b3808a036a5427c5225e039f9a",
+    "bytes": 8641
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/KRR/concluido.json",
+    "sha256": "e51fd4dfc39c6754f834feec6aec113f97b4c926d829d0de65218f0774e4f544",
+    "bytes": 1237
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/KRR/diagnosticos.jsonl",
+    "sha256": "da8c8457efd33340788ec6192b805f16121d468aba1dd2ab0126215f9eda8e23",
+    "bytes": 88160
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/KRR/diagnosticos_reajuste.json",
+    "sha256": "dafdb7e437bdfccfc999d57f0bd36436587fc609b9c1da9fa80ade6c0f683d8d",
+    "bytes": 559
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/KRR/divisoes_dias.csv",
+    "sha256": "111d2d297cb37c7f8a25a52bcb37f9d3ecb78b62ed1d83f05384ebd258a1e31a",
+    "bytes": 17187
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/KRR/divisoes_resumo.csv",
+    "sha256": "e37935029b07ee48194a4144746906cb72f21ae6c27251f45a456bc8e6ecc39c",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/KRR/metricas_externas.csv",
+    "sha256": "b23a02f40e96092dd3affa3b758440ca70b4adf92c214ce31d51a398c8ca6f35",
+    "bytes": 830
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/KRR/metricas_internas.csv",
+    "sha256": "e0e9c15f2055ffe6a007a7e758761bda5b527f9ed45390ea0c8b9a5f93599f40",
+    "bytes": 126623
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/KRR/modelo.joblib",
+    "sha256": "30b7f8d67c94620fbed111588d47dcbf4f4f10b271be65c1a9dbbce35c35c7da",
+    "bytes": 44170
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/KRR/predicoes_teste.csv",
+    "sha256": "a0057cb5cfb6fc378c8b2739d48965ec3c98c552320b9836f6afa4c8e14cb00e",
+    "bytes": 69202
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/MLP/busca.csv",
+    "sha256": "7ac7318fa143410dd5114d9db8d9689183e126f0ffbf7e25106031bf9a68d1f3",
+    "bytes": 13509
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/MLP/concluido.json",
+    "sha256": "7cdd419ce531e6231dc512fb636038a229dfaf5bf9bfe931bf07fb18e213a9c4",
+    "bytes": 2005
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/MLP/diagnostico_seed_17.json",
+    "sha256": "629e2423f0ebfb1bd26f2fc68cfe41e6d06ec4e2adb2b0e2f36a774afe5b6035",
+    "bytes": 3511
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/MLP/diagnostico_seed_73.json",
+    "sha256": "9d496400601cc729cd92450fa422bd8fc2a56d8741e24e0b01e9422ade79d609",
+    "bytes": 3116
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/MLP/diagnosticos.jsonl",
+    "sha256": "68ecd181905ecbb6bd486404b6b5519eefaddd487e1e33abd9af371de0e5a335",
+    "bytes": 600054
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/MLP/diagnosticos_reajuste.json",
+    "sha256": "010e78eb6f3dd4f15d3bd4a9b0bbc33e89dcda0d6ca1ebf68a940ed214fee56e",
+    "bytes": 3321
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/MLP/divisoes_dias.csv",
+    "sha256": "111d2d297cb37c7f8a25a52bcb37f9d3ecb78b62ed1d83f05384ebd258a1e31a",
+    "bytes": 17187
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/MLP/divisoes_resumo.csv",
+    "sha256": "e37935029b07ee48194a4144746906cb72f21ae6c27251f45a456bc8e6ecc39c",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/MLP/estabilidade_metricas.csv",
+    "sha256": "66909c6c744cd18507e158a9b0569a72e6daac85f3a053c57763f5c1517a01ef",
+    "bytes": 1432
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/MLP/metricas_externas.csv",
+    "sha256": "df760a49ed976825d551e9f371b8a72f95751193a119df42030cb0daa375bb50",
+    "bytes": 832
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/MLP/metricas_internas.csv",
+    "sha256": "747bfce57e0ea2cedba319c44ae8c5cbf82a5c35cecd825301789348248ac2c6",
+    "bytes": 126306
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/MLP/modelo.joblib",
+    "sha256": "c02ef4b7e6c8aa6dec37b7c1fc4b4e3a010a11ce4ff5cc06e349ce43b214a23a",
+    "bytes": 13193
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/MLP/modelo_seed_17.joblib",
+    "sha256": "767b09dff38f5665b2ba9702c0a1dd09bdfc22334bc1053cb3a4e601cc7ffb53",
+    "bytes": 13331
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/MLP/modelo_seed_73.joblib",
+    "sha256": "4208b1a16c1662dcfa4e49ae723242cfa4204be94ec5d462f66090f81e9a0a56",
+    "bytes": 13214
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/MLP/predicoes_seed_17.csv",
+    "sha256": "f54b7e0998395f0af55e617a480f051292751229dfaf0870caddf289c4f18431",
+    "bytes": 69200
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/MLP/predicoes_seed_73.csv",
+    "sha256": "102c482c9c92244a6943587cd218c25159b7b01faddcc89c10246a31fd56514c",
+    "bytes": 69198
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/MLP/predicoes_teste.csv",
+    "sha256": "d5005c77a9c1231db0a432a6443dfa539ba3a300913569a955ff6ae3e27d766b",
+    "bytes": 69180
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/SVR/busca.csv",
+    "sha256": "18d08b22836e9aa6092260ebb68a233e0cabebb185cbcd99395d741bbc994048",
+    "bytes": 13776
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/SVR/concluido.json",
+    "sha256": "75cf5ff7dd85af3d2cb52f1c229b9c33849df8eae4da3a60d3d2c1da0124cb40",
+    "bytes": 1229
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/SVR/diagnosticos.jsonl",
+    "sha256": "1db0b5a6b75254fe71de24afc50cd1896a2cfeb6e09c3e02586be6522f9993f8",
+    "bytes": 143919
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/SVR/diagnosticos_reajuste.json",
+    "sha256": "0a5a495551571cd6dffcddcc4d8db1b06470c32b97feda0afa03d806b02ac2b5",
+    "bytes": 675
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/SVR/divisoes_dias.csv",
+    "sha256": "111d2d297cb37c7f8a25a52bcb37f9d3ecb78b62ed1d83f05384ebd258a1e31a",
+    "bytes": 17187
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/SVR/divisoes_resumo.csv",
+    "sha256": "e37935029b07ee48194a4144746906cb72f21ae6c27251f45a456bc8e6ecc39c",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/SVR/metricas_externas.csv",
+    "sha256": "074d786b4b4fd4115e4bb95b621407888a4da022be752bcb2431ce013d016868",
+    "bytes": 827
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/SVR/metricas_internas.csv",
+    "sha256": "7fa157ed69857276a53800e01d068a19c63c88c21fc1b7c2ff64c08d5e27592d",
+    "bytes": 168219
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/SVR/modelo.joblib",
+    "sha256": "76c8fe871a8a6f459707f0bf0ec84bed1556297f4f1a212930e879217f92edbd",
+    "bytes": 33147
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/SVR/predicoes_teste.csv",
+    "sha256": "66b1f012a1e7512f26d982621bb1ee607dec82e45cec42f075c397d5587e62f4",
+    "bytes": 69206
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/XGBoost/busca.csv",
+    "sha256": "1b3f91befd7e109d27ee96b78752483ade424dae2d958bcb453f324ce13de700",
+    "bytes": 46060
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/XGBoost/concluido.json",
+    "sha256": "1a338f6fdc876d2290fd47856eaf0c6976405eb045c98d6053e172f530095844",
+    "bytes": 2060
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/XGBoost/diagnostico_seed_17.json",
+    "sha256": "78cbf9312d64db2ab03069b9acb846414c9419a9662b32638b952b96ec4ebbcf",
+    "bytes": 1412
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/XGBoost/diagnostico_seed_73.json",
+    "sha256": "7b57227de9f25f34a45ca421f0968bbd35f47c781c728f5d0f94b5f49d4e7012",
+    "bytes": 1411
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/XGBoost/diagnosticos.jsonl",
+    "sha256": "47ce3688135927ef6b695b45110efb1ef4fd4db0e9871910c0dbd84059cece9d",
+    "bytes": 695170
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/XGBoost/diagnosticos_reajuste.json",
+    "sha256": "954200288e6a67f108a3d30c6d62392cbc745a1dfb19ff15fdfef87b8b2a391b",
+    "bytes": 1552
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/XGBoost/divisoes_dias.csv",
+    "sha256": "111d2d297cb37c7f8a25a52bcb37f9d3ecb78b62ed1d83f05384ebd258a1e31a",
+    "bytes": 17187
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/XGBoost/divisoes_resumo.csv",
+    "sha256": "e37935029b07ee48194a4144746906cb72f21ae6c27251f45a456bc8e6ecc39c",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/XGBoost/estabilidade_metricas.csv",
+    "sha256": "c666c1118434b424ba0854b88b3234c20f1bb1c56dff0a652b764c7ad7d447d6",
+    "bytes": 1427
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/XGBoost/metricas_externas.csv",
+    "sha256": "5da4702efa765fb531ba7d7d233bc6bb6ebe4fb885938fb86e6dcc1bbe4ae827",
+    "bytes": 835
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/XGBoost/metricas_internas.csv",
+    "sha256": "c4b444a700e0740d5d79c262f42bc504fbdb822d2a9c12c61d503546455190ba",
+    "bytes": 338164
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/XGBoost/modelo.joblib",
+    "sha256": "ef0d82eecf1304c6a9aea03ce61f27cad7ab3c175b38fb31520fd3052bfa2e35",
+    "bytes": 19806
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/XGBoost/modelo_seed_17.joblib",
+    "sha256": "b3c16fe591cf7a81bd290415819e379f8c2980e52ab151cde92756fa4ac2a24e",
+    "bytes": 20351
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/XGBoost/modelo_seed_73.joblib",
+    "sha256": "3e88ba67ced4d68904f50ee67c6034691961304a03c9d624c6c8673250e1274d",
+    "bytes": 19827
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/XGBoost/predicoes_seed_17.csv",
+    "sha256": "9a4e00f8c7a1458fda75f5779a4ca5ac285d0a9fd7f85d725d089cbf60fd2b2c",
+    "bytes": 69182
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/XGBoost/predicoes_seed_73.csv",
+    "sha256": "9c40f28b8b76e927d372f0780ecfb8e6d5daeab86eea0875199aa73b49137659",
+    "bytes": 69180
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/2025-03/XGBoost/predicoes_teste.csv",
+    "sha256": "890909301aa49326a7814408f6a45130098f2b8ba5061ea2dc00578aef268317",
+    "bytes": 69144
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/KRR/busca.csv",
+    "sha256": "a1537c99b2f041be82c93c399035c5ecc72d4a1404f8b50edfaf665077645410",
+    "bytes": 8644
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/KRR/concluido.json",
+    "sha256": "1bc55ed595828259953c86e1d43ea51e5ab78b91485d4ff698c1b19934ef2ab0",
+    "bytes": 1235
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/KRR/diagnosticos.jsonl",
+    "sha256": "3a4f7ee73c42152430de2ac18adc983363bb46384389c4884df1a60a3700bb0f",
+    "bytes": 88231
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/KRR/diagnosticos_reajuste.json",
+    "sha256": "a3c375c4c1337cf5a1921184467c1e27341a259c4ee4feadd60787a2ec77640d",
+    "bytes": 560
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/KRR/divisoes_dias.csv",
+    "sha256": "b2b8c856dbab2bbcb80afebabfa1e7eda68755f6830d5d92eef31adccbcea832",
+    "bytes": 14919
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/KRR/divisoes_resumo.csv",
+    "sha256": "52759477e6e8de19548e20b188bc72132defa6f6ae562c61b8a49ffc40b546a4",
+    "bytes": 491
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/KRR/metricas_externas.csv",
+    "sha256": "4b0d70466f3c9db40a5cddf56d2d0355bc203d96858b50b84cee55c268787b6d",
+    "bytes": 832
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/KRR/metricas_internas.csv",
+    "sha256": "6a0092dbbb968aa209be8bb610e53d28f521dda16d640a60efd9471da9e3198f",
+    "bytes": 128724
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/KRR/modelo.joblib",
+    "sha256": "178874427ddbcbdb442c2d28da101cb3694bccb29b44ef53131031255ab6a47e",
+    "bytes": 39198
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/KRR/predicoes_teste.csv",
+    "sha256": "789ad34dabaa2856ed8a27f5de40974c786f4e70876cf39d0a231e675a48597b",
+    "bytes": 132705
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/MLP/busca.csv",
+    "sha256": "0a3b143ffcbdafe3b5eb812c83439bde573a01b7900e25563b9d759bb6be85cf",
+    "bytes": 13517
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/MLP/concluido.json",
+    "sha256": "29623d3d152059fcfe0d19fb59275e67df12d10aa1d1fd3e62ab0be35b353462",
+    "bytes": 2003
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/MLP/diagnostico_seed_17.json",
+    "sha256": "94849408344eaec8c2758254835ae951b4c955c79da49c639972e74c05573a46",
+    "bytes": 3094
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/MLP/diagnostico_seed_73.json",
+    "sha256": "26032d030f7022bdce10e7f253d8857773b873a5d8325d858714e673956fd51a",
+    "bytes": 2378
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/MLP/diagnosticos.jsonl",
+    "sha256": "c226a4ec7e887ad19a06604a7f34929f5d246818c31ee02d351f491b7f4e9422",
+    "bytes": 1469415
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/MLP/diagnosticos_reajuste.json",
+    "sha256": "c82e7e4292a2875ba5a578c43807d75dcc0df8c74a88b7d753b8fd0225c1630a",
+    "bytes": 2785
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/MLP/divisoes_dias.csv",
+    "sha256": "b2b8c856dbab2bbcb80afebabfa1e7eda68755f6830d5d92eef31adccbcea832",
+    "bytes": 14919
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/MLP/divisoes_resumo.csv",
+    "sha256": "52759477e6e8de19548e20b188bc72132defa6f6ae562c61b8a49ffc40b546a4",
+    "bytes": 491
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/MLP/estabilidade_metricas.csv",
+    "sha256": "8041bdeffe9f37b2daa0f3d214f9d0dabdc2a917bb0acd643e6d50ee48f8f0a9",
+    "bytes": 1417
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/MLP/metricas_externas.csv",
+    "sha256": "9c3c48c40a2e022ac7505251214d6b5d7680817b01fb659d0611d879d07ebab9",
+    "bytes": 824
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/MLP/metricas_internas.csv",
+    "sha256": "851076d249beb61144804978d72201489bf9d94a0d8ca125897a4550bfd70be5",
+    "bytes": 128207
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/MLP/modelo.joblib",
+    "sha256": "bc202649ee81322522f49554753f643264d91f4fcef038d25de303d65bd27334",
+    "bytes": 20795
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/MLP/modelo_seed_17.joblib",
+    "sha256": "4ea504ff84a277b3874831633dbe30348a43848ed5a04928f7f1e56d9db0d21a",
+    "bytes": 20981
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/MLP/modelo_seed_73.joblib",
+    "sha256": "87eb5e59bfcfa3dc52620962ed6b47a85168b1b8c6bf81d005a1d70607fa6f03",
+    "bytes": 20743
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/MLP/predicoes_seed_17.csv",
+    "sha256": "17a806eca0c5318f524af5fb37c20b87dad909ece1475c6b58adf1351c442cdb",
+    "bytes": 132655
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/MLP/predicoes_seed_73.csv",
+    "sha256": "6827b053569a6c1db1a160623e4360ecf6f894a3b21251265ef3ebfdfca2adf6",
+    "bytes": 132683
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/MLP/predicoes_teste.csv",
+    "sha256": "d141fa7fe435bdda667201d1551b1c3905faeae2c8f8b4664a8c77b2fd838e85",
+    "bytes": 132641
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/SVR/busca.csv",
+    "sha256": "ed6b3345f6ddb345ed6caa1471b4b91b8665d0f0965b35c5b891ecc0f8f52e06",
+    "bytes": 13782
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/SVR/concluido.json",
+    "sha256": "373dbfb60452881d01467308785b952447e256d6f5a10eb1cf4e6ac0740b3f63",
+    "bytes": 1228
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/SVR/diagnosticos.jsonl",
+    "sha256": "494b5fe056be22dc9963f78121887bc6b8df11a1c55cc48d6e243dd20b13fb43",
+    "bytes": 144035
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/SVR/diagnosticos_reajuste.json",
+    "sha256": "cdf6b9b009b53779e5d259fd71a5388a98d016094854d5669d14b5306dc375d0",
+    "bytes": 677
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/SVR/divisoes_dias.csv",
+    "sha256": "b2b8c856dbab2bbcb80afebabfa1e7eda68755f6830d5d92eef31adccbcea832",
+    "bytes": 14919
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/SVR/divisoes_resumo.csv",
+    "sha256": "52759477e6e8de19548e20b188bc72132defa6f6ae562c61b8a49ffc40b546a4",
+    "bytes": 491
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/SVR/metricas_externas.csv",
+    "sha256": "eac17b01dde713ca1ec6ad563a3815a78ac596bebe48bd8db64715cdffac14c7",
+    "bytes": 834
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/SVR/metricas_internas.csv",
+    "sha256": "4d9f2d7581afe2c5333528f94f122d8b1df9e318f19024159f27c10004ed3ab5",
+    "bytes": 170992
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/SVR/modelo.joblib",
+    "sha256": "9881af465ec9f76298511f9245ef56aaf177c1e5748ac9ddc8d5ab2778e61607",
+    "bytes": 28304
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/SVR/predicoes_teste.csv",
+    "sha256": "8cb4b000172b3360961ebe4246d1bd6af45ba8de8ab2036c93bdecc93a813423",
+    "bytes": 132672
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/XGBoost/busca.csv",
+    "sha256": "40b7be8c192d5ccdde2c2732fa37a75ccc907d6146db1b4cf33fe13d39a7334a",
+    "bytes": 46067
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/XGBoost/concluido.json",
+    "sha256": "5343ec62f1bb2ab0ae532f87d219a9df64276222e8fca733fa93cddec157da59",
+    "bytes": 2056
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/XGBoost/diagnostico_seed_17.json",
+    "sha256": "97477ee32c310950f3318e21e95746cc57bcdab4a2aca67a9bad00365381cefc",
+    "bytes": 1411
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/XGBoost/diagnostico_seed_73.json",
+    "sha256": "f7666c41caa08efbd41e0dcc24645bf9535b0d620470ec6935148ace794dfd88",
+    "bytes": 1410
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/XGBoost/diagnosticos.jsonl",
+    "sha256": "e481acb9d8ec0b24fb85337424b5d93a0968d26ab5c66207cff305a9f379a773",
+    "bytes": 695342
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/XGBoost/diagnosticos_reajuste.json",
+    "sha256": "b21465c30535acf9571d842f849cfbac74928b1e691fc67a4f2bf9cfaf1d07c4",
+    "bytes": 1550
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/XGBoost/divisoes_dias.csv",
+    "sha256": "b2b8c856dbab2bbcb80afebabfa1e7eda68755f6830d5d92eef31adccbcea832",
+    "bytes": 14919
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/XGBoost/divisoes_resumo.csv",
+    "sha256": "52759477e6e8de19548e20b188bc72132defa6f6ae562c61b8a49ffc40b546a4",
+    "bytes": 491
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/XGBoost/estabilidade_metricas.csv",
+    "sha256": "ae5beaa7b1573eea823b377ef9623f1c2e9389534182281131570b72c0aeeae6",
+    "bytes": 1429
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/XGBoost/metricas_externas.csv",
+    "sha256": "f3bc0e45fa5ef76cad97c5558d000ebf9b70e5f994c1db8f19d720eb901899ce",
+    "bytes": 832
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/XGBoost/metricas_internas.csv",
+    "sha256": "7fb052553db452a023054dbbcce0c2f20c60422670e9a49c47ddae74a048a5e4",
+    "bytes": 343443
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/XGBoost/modelo.joblib",
+    "sha256": "91549044e732ab8e6210ebacc0f6d3c50fb947a9349e4483b92811ce5538dfba",
+    "bytes": 7994
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/XGBoost/modelo_seed_17.joblib",
+    "sha256": "269ab42d9323c1c1c4d34e4ffda59ea5b3a3ae9d8d820aa4a3d65fc7e391510c",
+    "bytes": 8136
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/XGBoost/modelo_seed_73.joblib",
+    "sha256": "9db9343bfa81abfa7a623ee45b15c423442459585be2bd9d2be558e25719d9d9",
+    "bytes": 8021
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/XGBoost/predicoes_seed_17.csv",
+    "sha256": "e66a6e6bf3593e156512efd644f4cb3e7def2e22e67c85c3897b00468b269689",
+    "bytes": 132705
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/XGBoost/predicoes_seed_73.csv",
+    "sha256": "dcb36016434d5f913f178efc037cd830396abb33a6ef3fa47a33ecb961aa1b68",
+    "bytes": 132627
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/CRONO/XGBoost/predicoes_teste.csv",
+    "sha256": "ab2017e5e03a5979ff417095ed6fd2094301c387b042b15080a9eaba4aecda06",
+    "bytes": 132729
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/KRR/busca.csv",
+    "sha256": "3c15ec511732d88091d69a9aca95d88aa8eb905af3f210e9a357f8f5c2914891",
+    "bytes": 8640
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/KRR/concluido.json",
+    "sha256": "37a86bb76fd7eff4199cbc9519d69d55e6648042771ff3aeb23e5d8581b18c8d",
+    "bytes": 1102
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/KRR/diagnosticos.jsonl",
+    "sha256": "ee00af778ba0c7de6b7d1f8fec4019e5caaf0b17e6042e9cb54f47b3707e65d0",
+    "bytes": 88181
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/KRR/diagnosticos_reajuste.json",
+    "sha256": "9b849c7c53d889b595c7948b14d3c7b0ac7e8c4314b9c6c86f6c6c42511ef10f",
+    "bytes": 554
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/KRR/divisoes_dias.csv",
+    "sha256": "0c3be00f7a656e02b8605c56f3c53eec20a9c1b1545f547f6306e0c6c3378062",
+    "bytes": 19741
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/KRR/divisoes_resumo.csv",
+    "sha256": "1a8b0177eb9689f691facd242415d93fe6782dc93304048177eea426dae70e91",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/KRR/metricas_externas.csv",
+    "sha256": "1cd3f4170db19f2f1b2fdd277d44df91ec82d5edf2a9aa45a528beb3872dd41e",
+    "bytes": 537
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/KRR/metricas_internas.csv",
+    "sha256": "43c95f0703333f7d993fc6c6f4390368bdd5838d5ba3decc2a439ac23ef14790",
+    "bytes": 127271
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/KRR/modelo.joblib",
+    "sha256": "8c5174b01eb6229df5c9e60995b0fa0412dd1bf552355e50a42089b7eccd365a",
+    "bytes": 49105
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/MLP/busca.csv",
+    "sha256": "8926139da9b93e0b269d2fbb370ba64e8cd5456f90778da28c3534bc4d75a5d5",
+    "bytes": 13514
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/MLP/concluido.json",
+    "sha256": "6b392d07c33495f22e751d5e1340b84efe3b82d82367b237df2eed030b5c9762",
+    "bytes": 1714
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/MLP/diagnostico_seed_17.json",
+    "sha256": "7cfab503b04736034cc735e1072100e4f3bd29b64c4bad54808454fe356172b6",
+    "bytes": 3371
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/MLP/diagnostico_seed_73.json",
+    "sha256": "af6a759304a9b81201f1317a6b7b23acd0a3e077462ec1e16eba299c4b3468fe",
+    "bytes": 2945
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/MLP/diagnosticos.jsonl",
+    "sha256": "1313bb70376196017bf42c1a2080a8fb8ad04139353674802c823bde5c857cae",
+    "bytes": 1287952
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/MLP/diagnosticos_reajuste.json",
+    "sha256": "9b392e2659bf123b1afe916809d4c7e4a4265e86139342151d6e672f399eba50",
+    "bytes": 3190
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/MLP/divisoes_dias.csv",
+    "sha256": "0c3be00f7a656e02b8605c56f3c53eec20a9c1b1545f547f6306e0c6c3378062",
+    "bytes": 19741
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/MLP/divisoes_resumo.csv",
+    "sha256": "1a8b0177eb9689f691facd242415d93fe6782dc93304048177eea426dae70e91",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/MLP/estabilidade_metricas.csv",
+    "sha256": "709d141b0f06d08b790b75ee98a6e832e896363ccac36e0c435ed340ba1e3d2b",
+    "bytes": 827
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/MLP/metricas_externas.csv",
+    "sha256": "41dd999b6cef4d082663fa8cc301b69fb39e652ce93aac1b837f098df80aaff1",
+    "bytes": 537
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/MLP/metricas_internas.csv",
+    "sha256": "8b31420feae5ddc384535082eb37d30100a2b9340ec538760e407a659baf5b9e",
+    "bytes": 126882
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/MLP/modelo.joblib",
+    "sha256": "ef1406ad1e45ef868838e1a5848de2bd038769b4894a7fb70e54a21a2ef9a70c",
+    "bytes": 13154
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/MLP/modelo_seed_17.joblib",
+    "sha256": "bbdc103ae497507ba5521adcec8527a1ed1c8128b2ded99e86f20ad34243cfa1",
+    "bytes": 13289
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/MLP/modelo_seed_73.joblib",
+    "sha256": "8dd08a40cd81883ff3aefd7777bea5244643d532fef9a449cf89d746b437be84",
+    "bytes": 13176
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/SVR/busca.csv",
+    "sha256": "e1822a140ca691adf8bd6bc2b255f6bcf5a42c0cfd6c07441e16960068bbbc89",
+    "bytes": 13779
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/SVR/concluido.json",
+    "sha256": "1ef60e366d12f9538827b3c37946eb19161e1d3c2f979e99843ac4accba5337c",
+    "bytes": 1131
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/SVR/diagnosticos.jsonl",
+    "sha256": "22f1f5855767a603286372001aaedb36ed9922e0aabe6681e361746137d1022f",
+    "bytes": 144023
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/SVR/diagnosticos_reajuste.json",
+    "sha256": "a6c29e41d7c7c78bbd4eb1640996cf3fd50eda6ba3d98bec4cc2d8a0d039702d",
+    "bytes": 676
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/SVR/divisoes_dias.csv",
+    "sha256": "0c3be00f7a656e02b8605c56f3c53eec20a9c1b1545f547f6306e0c6c3378062",
+    "bytes": 19741
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/SVR/divisoes_resumo.csv",
+    "sha256": "1a8b0177eb9689f691facd242415d93fe6782dc93304048177eea426dae70e91",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/SVR/metricas_externas.csv",
+    "sha256": "af23ecc3a7666d28067a93b9bcc041cfe6dace7a6b8cc3b3e3553cff9127fc66",
+    "bytes": 534
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/SVR/metricas_internas.csv",
+    "sha256": "c4101a851e0d337b89a4383da5b17f435bf54ccf365ca0192a0e272c21f6cdde",
+    "bytes": 169073
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/SVR/modelo.joblib",
+    "sha256": "7d02e598df6f154e4158f98a948576961499b641118a7f9a8c7fbf2b22ac3f67",
+    "bytes": 36776
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/XGBoost/busca.csv",
+    "sha256": "7ef41eef5dcc1b35365385d1ba552f7b2680b64aa2b596007696ae3bcf48fb13",
+    "bytes": 46066
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/XGBoost/concluido.json",
+    "sha256": "d843282ef217ff993724b9eb7339fd539d88dfc76347f7a928d8f928ddb13af1",
+    "bytes": 1768
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/XGBoost/diagnostico_seed_17.json",
+    "sha256": "1ba0299f8631192bd35e118e8a2ebe28e4c2f3ece6b56dfd2610765c7b1d473b",
+    "bytes": 1411
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/XGBoost/diagnostico_seed_73.json",
+    "sha256": "093e77b68c7a4fb499423588c5e21a95885c22fe02cf0c2c7912d31daa078acf",
+    "bytes": 1410
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/XGBoost/diagnosticos.jsonl",
+    "sha256": "ef7dfa83731f2b07ebf89d3c22609c3643ebd620d08fa2e530aa9ffdc0575fcb",
+    "bytes": 695333
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/XGBoost/diagnosticos_reajuste.json",
+    "sha256": "fd5bddf62139d1fec6a56e43a98c843eb543137c38ed1b094b9f5afd08369610",
+    "bytes": 1551
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/XGBoost/divisoes_dias.csv",
+    "sha256": "0c3be00f7a656e02b8605c56f3c53eec20a9c1b1545f547f6306e0c6c3378062",
+    "bytes": 19741
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/XGBoost/divisoes_resumo.csv",
+    "sha256": "1a8b0177eb9689f691facd242415d93fe6782dc93304048177eea426dae70e91",
+    "bytes": 494
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/XGBoost/estabilidade_metricas.csv",
+    "sha256": "90864380738693f230cb7755d2886f3d19eeb991213ed6afbc646762fb141176",
+    "bytes": 829
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/XGBoost/metricas_externas.csv",
+    "sha256": "c77016afd47c020d2b57bea966789613da38c83a3b940799d401679d8a560aa9",
+    "bytes": 539
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/XGBoost/metricas_internas.csv",
+    "sha256": "c340ac142160faa895a64eed2f190ea5025b3236069a16b5ae165d834ee1868a",
+    "bytes": 339678
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/XGBoost/modelo.joblib",
+    "sha256": "047c3f52982ef9b00acbb6774063eec1a93b34b6454e66e6aa1263137c86572c",
+    "bytes": 5596
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/XGBoost/modelo_seed_17.joblib",
+    "sha256": "5299f8c709e8068b0b8d1a5d44f71f989dde9f875f9f150d97909f756619e96e",
+    "bytes": 5621
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/FINAL/XGBoost/modelo_seed_73.joblib",
+    "sha256": "9e9290d3241a3a5d6b7a85a9de9df0bc688b002b043c80e9600cc95313c02164",
+    "bytes": 5626
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/RESULTADOS_V3.md",
+    "sha256": "ec7ee43c143b5ad69f4ec0fb2e05b5a701a63eb221423d378ceaf840931cbb9b",
+    "bytes": 6416
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/ambiente.json",
+    "sha256": "af4bfb68fa1bb44f30afe085333833ab0a958a33c836e9a107c3e25e9194927b",
+    "bytes": 294
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/assinatura.json",
+    "sha256": "bc9ba33e4cc81011897c4ea898c5994ceeed052882ba5de2a9201bb52ed8d79f",
+    "bytes": 991
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/auditoria_horaria.csv",
+    "sha256": "ac00ba184c47ff8789c0f13b6fd29b9ba0e37fd1826e89b591db684ab21701c7",
+    "bytes": 1619927
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/auditoria_horaria_pre_treinamento.csv",
+    "sha256": "ac00ba184c47ff8789c0f13b6fd29b9ba0e37fd1826e89b591db684ab21701c7",
+    "bytes": 1619927
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/cobertura_mensal.csv",
+    "sha256": "3fafb0a4fd977957ec4623f58d24dd7a42b9a3c5c100628dbbd700d839a59086",
+    "bytes": 313
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/configuracoes_lomo.csv",
+    "sha256": "8f80ebd116d84fa68ad73fe13eca6dedae32cbe73e3ee5c5eed68e1a26d7b20e",
+    "bytes": 6879
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/estabilidade_lomo.csv",
+    "sha256": "b4bb730c8d9e81430a7fd561144492dc27e495cb8632d59a556231d46a0612c6",
+    "bytes": 1831
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/historico_execucoes.jsonl",
+    "sha256": "d3a651b3df000f9d1f8a32e3ba28b6572b53f56b5affe45e0750fc494a75a545",
+    "bytes": 63
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/metricas_cronologicas.csv",
+    "sha256": "71d38a8c9070a46fd92fecd77bacea4a23d58884d3dc25767fcea88a8fb0a02f",
+    "bytes": 1560
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/metricas_diarias.csv",
+    "sha256": "8e9ddaf8feec1dfc3c0f8b58b64934bcee9dc6d3bd3097a902eb0c317a320967",
+    "bytes": 266795
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/metricas_faixas_GHI.csv",
+    "sha256": "8acc481e8e34065f8cf019c6451db4c79360cfb19d320062ddbaad801f2524a5",
+    "bytes": 4531
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/metricas_lomo_agrupadas.csv",
+    "sha256": "c3658a1546105f9f7b7ff7157a69766680d23fc91efed7e0bcf78912eaaa7986",
+    "bytes": 1526
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/metricas_lomo_mensais.csv",
+    "sha256": "5f2b5a2956350c19da5622592054d91ae9188fd30dad077b61446eccc9c6dfe6",
+    "bytes": 8848
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/predicoes_lomo.csv",
+    "sha256": "f7976cafea5ba411b0a70e05be878cde71f762be22141e46c94527b6ef02de4f",
+    "bytes": 2317320
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/schema_modelos_finais_v3.json",
+    "sha256": "44a790adb84efa467f1ecbd46d11f55fe9d2f0ef080325e1ee67644040b54789",
+    "bytes": 2718
+  },
+  {
+    "arquivo": "resultados/robusto_v3_ghi_tmais1h_zenite_tmais30min/status.json",
+    "sha256": "bd8c3e9a39ee2f1a2ccf4183b22fe87cb5df499e75dc0284a18f220774055e2d",
+    "bytes": 92
+  },
+  {
+    "arquivo": "sgie_estimators.py",
+    "sha256": "03a1a34b6491f9cd7426f9c831d2d4bc044b2d0a1f0572b2898178ead11e08ed",
+    "bytes": 740
+  },
+  {
+    "arquivo": "sgie_pipeline.py",
+    "sha256": "67266507fd45ebb6c68b0598987123e7fc77f2e0cc5311240bc7187a7b21313d",
+    "bytes": 11164
+  },
+  {
+    "arquivo": "treinamento_v3.log",
+    "sha256": "bdb734e2bba0429823039f05793049a86276256144d36093a64ab0314b4bfc04",
+    "bytes": 71573
+  }
+]
