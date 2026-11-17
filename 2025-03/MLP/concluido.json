@@ -1,0 +1,37 @@
+{
+  "rodada": "2025-03",
+  "modelo": "MLP",
+  "candidato": 47,
+  "parametros": {
+    "activation": "tanh",
+    "alpha": 0.5413808885100023,
+    "batch_size": "auto",
+    "hidden_layer_sizes": [
+      50
+    ],
+    "learning_rate_init": 0.00016924097439156792
+  },
+  "RMSE_validacao": 1.0919815109534292,
+  "candidatos_validos": 72,
+  "candidatos_total": 72,
+  "semente_selecao": 42,
+  "estabilidade": "reajuste_com_parametros_fixos_nao_reselecao",
+  "artefatos": {
+    "predicoes_teste.csv": "d5005c77a9c1231db0a432a6443dfa539ba3a300913569a955ff6ae3e27d766b",
+    "divisoes_resumo.csv": "e37935029b07ee48194a4144746906cb72f21ae6c27251f45a456bc8e6ecc39c",
+    "modelo_seed_17.joblib": "767b09dff38f5665b2ba9702c0a1dd09bdfc22334bc1053cb3a4e601cc7ffb53",
+    "diagnosticos.jsonl": "68ecd181905ecbb6bd486404b6b5519eefaddd487e1e33abd9af371de0e5a335",
+    "divisoes_dias.csv": "111d2d297cb37c7f8a25a52bcb37f9d3ecb78b62ed1d83f05384ebd258a1e31a",
+    "estabilidade_metricas.csv": "66909c6c744cd18507e158a9b0569a72e6daac85f3a053c57763f5c1517a01ef",
+    "diagnosticos_reajuste.json": "010e78eb6f3dd4f15d3bd4a9b0bbc33e89dcda0d6ca1ebf68a940ed214fee56e",
+    "diagnostico_seed_73.json": "9d496400601cc729cd92450fa422bd8fc2a56d8741e24e0b01e9422ade79d609",
+    "busca.csv": "7ac7318fa143410dd5114d9db8d9689183e126f0ffbf7e25106031bf9a68d1f3",
+    "modelo.joblib": "c02ef4b7e6c8aa6dec37b7c1fc4b4e3a010a11ce4ff5cc06e349ce43b214a23a",
+    "predicoes_seed_17.csv": "f54b7e0998395f0af55e617a480f051292751229dfaf0870caddf289c4f18431",
+    "metricas_externas.csv": "df760a49ed976825d551e9f371b8a72f95751193a119df42030cb0daa375bb50",
+    "predicoes_seed_73.csv": "102c482c9c92244a6943587cd218c25159b7b01faddcc89c10246a31fd56514c",
+    "diagnostico_seed_17.json": "629e2423f0ebfb1bd26f2fc68cfe41e6d06ec4e2adb2b0e2f36a774afe5b6035",
+    "metricas_internas.csv": "747bfce57e0ea2cedba319c44ae8c5cbf82a5c35cecd825301789348248ac2c6",
+    "modelo_seed_73.joblib": "4208b1a16c1662dcfa4e49ae723242cfa4204be94ec5d462f66090f81e9a0a56"
+  }
+}
