@@ -1,0 +1,27 @@
+{
+  "rodada": "2025-02",
+  "modelo": "SVR",
+  "candidato": 30,
+  "parametros": {
+    "C": 40.36393969246245,
+    "epsilon": 0.01167495660434143,
+    "gamma": 0.0005510253779331716,
+    "kernel": "rbf"
+  },
+  "RMSE_validacao": 1.067473319168891,
+  "candidatos_validos": 96,
+  "candidatos_total": 96,
+  "semente_selecao": 42,
+  "estabilidade": "deterministico",
+  "artefatos": {
+    "predicoes_teste.csv": "092a722df8d9fff894e88e48218f2a7fc6fbb644fdfde39d6937e703cd8cd543",
+    "divisoes_resumo.csv": "e26467d5061a758a74dc55fa813639fed63ec2fdf8baed39997239d044c3ce89",
+    "diagnosticos.jsonl": "9f9aea277ee655ba8ea1c386d2b35a6b3d7da97cb55972706572c80e16fd81f5",
+    "divisoes_dias.csv": "b3c1e2d71e5edaaa674da3b16031ab05dfd5ed57e7e2319fdb8a6293930c05eb",
+    "diagnosticos_reajuste.json": "f5b326e34b02fc6effaea63d939980845a7659c82d77d4e2d4a4d5414f4a7cc5",
+    "busca.csv": "a768f6c2feeece402bc09beccd8a263d24080552343f8f8256494fbd2a23349c",
+    "modelo.joblib": "ede0bbb42473580d4e7231b1c57a452ea93dae3ff02fbc9356f4fcc3687e24d2",
+    "metricas_externas.csv": "8f097b834d0eca053ba20c70014320955731e6fec844de980ae9ac66f8b996e1",
+    "metricas_internas.csv": "a749313b8e9e918729ad3b15c9a6ab285f4c737619abf694753fb55225ad9e78"
+  }
+}

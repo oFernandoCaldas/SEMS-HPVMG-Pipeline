@@ -1,0 +1,37 @@
+{
+  "rodada": "2025-02",
+  "modelo": "MLP",
+  "candidato": 18,
+  "parametros": {
+    "activation": "tanh",
+    "alpha": 6.005081334752988e-05,
+    "batch_size": 64,
+    "hidden_layer_sizes": [
+      100
+    ],
+    "learning_rate_init": 0.004181976176392038
+  },
+  "RMSE_validacao": 1.0837684808574124,
+  "candidatos_validos": 72,
+  "candidatos_total": 72,
+  "semente_selecao": 42,
+  "estabilidade": "reajuste_com_parametros_fixos_nao_reselecao",
+  "artefatos": {
+    "predicoes_teste.csv": "402ab2605a6ac6d4803cc11e7f4b5192947522ce6ab4f79b33001b1bffd05455",
+    "divisoes_resumo.csv": "e26467d5061a758a74dc55fa813639fed63ec2fdf8baed39997239d044c3ce89",
+    "modelo_seed_17.joblib": "131760c59f50ec41b14de38a7720344b64d5c0f4198baa3cef45be6a82d958a9",
+    "diagnosticos.jsonl": "dd0128ff18fb89f716a89885486c4d8df0535d3ad05acbce9b30dd27b85e43e5",
+    "divisoes_dias.csv": "b3c1e2d71e5edaaa674da3b16031ab05dfd5ed57e7e2319fdb8a6293930c05eb",
+    "estabilidade_metricas.csv": "614771bd1b5f934f2bcf19214cc942bf3a03d6b28ee4527b6808cdcf24c28f59",
+    "diagnosticos_reajuste.json": "cf2b2970d1182ea34e59d5fb85a9c1566bf2d1c18b6cb25401e237c1d1a56d9b",
+    "diagnostico_seed_73.json": "97a948335ae9fa2cc8e97a5ee41e955aa9a04fb000b9089db023bdc120c96044",
+    "busca.csv": "6135f750278e54cef7c429004a17fe2770440cc2b631fa13683d27a3370127ff",
+    "modelo.joblib": "9d06bec66e0133488c7b659150ac1c94c6f479d8734475ff772a31ee0ad7e094",
+    "predicoes_seed_17.csv": "96fe5b3fed3339b70ee6901aabdbbd5a75f0f443e1f9b2e0cff7ad653100c5f5",
+    "metricas_externas.csv": "1c2a6a6838ccc9383558dc69c31bf61edc98d9043a28d29694049ee556f182bc",
+    "predicoes_seed_73.csv": "b8c4e73a3faac0c9fef6a8b6df483f913c561422279eebda37f1bd5dcc69bad2",
+    "diagnostico_seed_17.json": "132f6aab59f2b784bed09d3b80a805cb8d052974897ac1e1f66e7278d5065634",
+    "metricas_internas.csv": "f4d610d7697122696da40036702de036d70cfcaa99a5bf2a29eb7851b05b4371",
+    "modelo_seed_73.joblib": "130960a1000150c5be4595de9893920f5efbd8aa7579667ea5624f1cf61f08e3"
+  }
+}
