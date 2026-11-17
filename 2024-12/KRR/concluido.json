@@ -1,0 +1,28 @@
+{
+  "rodada": "2024-12",
+  "modelo": "KRR",
+  "candidato": 65,
+  "parametros": {
+    "alpha": 2.568386730418734,
+    "coef0": 1.0,
+    "degree": 3,
+    "gamma": 0.05718030235668149,
+    "kernel": "polynomial"
+  },
+  "RMSE_validacao": 1.0157597368411824,
+  "candidatos_validos": 72,
+  "candidatos_total": 72,
+  "semente_selecao": 42,
+  "estabilidade": "deterministico",
+  "artefatos": {
+    "predicoes_teste.csv": "549223edada734f9d2d1f047fdd7a33c742539bc8ca18c813b88ee8fb3cee27a",
+    "divisoes_resumo.csv": "602b6f25288910c4afca177f4dd6a0c64e3045ff36e6fc9d5a8ba40108069c2c",
+    "diagnosticos.jsonl": "1a58088b50869491cef4e8b6a8816fc83af635c49d134335ea568c66fc970083",
+    "divisoes_dias.csv": "2ad2b3aacbb495d9cefe116af34f71bdbbfe2f1608b5906becc11f2c5109e621",
+    "diagnosticos_reajuste.json": "70b7b0d1dfbe75acc1380942d5a727b950b8effb0de39362ad85a7bd889910a5",
+    "busca.csv": "d638310e904acdbeed288b5677c1526aecd3852d7a64a9d8c1e2bd64a7211432",
+    "modelo.joblib": "50fa810bad028f557ec0005d12062274b6f9e43f83f7a8b5e73911d3d046c9cf",
+    "metricas_externas.csv": "2b612d3f5df9607ad827f0c6484a087c4455dd60884a9ec24b6e99817345e646",
+    "metricas_internas.csv": "d6f8d950defc38200e33d3026d1e4115a5ca76a2c54825675c878b15cf0bea74"
+  }
+}
