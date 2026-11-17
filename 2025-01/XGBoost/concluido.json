@@ -1,0 +1,38 @@
+{
+  "rodada": "2025-01",
+  "modelo": "XGBoost",
+  "candidato": 157,
+  "parametros": {
+    "colsample_bytree": 1.0,
+    "learning_rate": 0.13136934937229205,
+    "max_depth": 1,
+    "min_child_weight": 8,
+    "n_estimators": 50,
+    "reg_alpha": 1.0,
+    "reg_lambda": 0.030284009507564668,
+    "subsample": 0.7
+  },
+  "RMSE_validacao": 1.0583252808083439,
+  "candidatos_validos": 192,
+  "candidatos_total": 192,
+  "semente_selecao": 42,
+  "estabilidade": "reajuste_com_parametros_fixos_nao_reselecao",
+  "artefatos": {
+    "predicoes_teste.csv": "85b2f4c48abc94732b29ebb0bd0c86a6b2cc7334ad94219563e18ad49c3acc16",
+    "divisoes_resumo.csv": "d013cff8be7dfcbb6aff24ca26b7ab01c5b782631a43df3511056bb0f14866a1",
+    "modelo_seed_17.joblib": "89eb81c36759a1b8ef00e677549f80820d36d43f71fa40c4c9895319a0a4b0ae",
+    "diagnosticos.jsonl": "f396850f61c13a2cbc123f25695c8be5e71b99367e7797e1cfd511f7fb89f4c2",
+    "divisoes_dias.csv": "f93266da0c760acafa8f16b7360a7f168ef858b1a21260db3a58c7d15b0f9d72",
+    "estabilidade_metricas.csv": "2cf83c0e2388d756d7a813fb4ff19deef04377edde2c6f0c5b4669c857692c34",
+    "diagnosticos_reajuste.json": "35614c137319951a77c46c08a3165d5ed33c4bb895c35f688a4ce0f2f4734eb3",
+    "diagnostico_seed_73.json": "ee89da1fd4475793f0a49616dc8fc67fd091985d428fcbaaa143276fb39ca56a",
+    "busca.csv": "780e7ffb7047307361b0c23d697a0f659c0262d04122569d1b71ace72ab501be",
+    "modelo.joblib": "823d6b2277817df4ff5a4d076b15d614b174b4ce7b9f2b272bee032fc1aa7da4",
+    "predicoes_seed_17.csv": "270de950c88c310899e13650e4c84e057e6325ad656839c80dbe7bb068847bd2",
+    "metricas_externas.csv": "0bf0188c1b6bd516e04cd902138afeff16c7f836eb813916bf0cca0755f4f2c2",
+    "predicoes_seed_73.csv": "e9943988298ad1801b2d4a665c442a951f4eff19ed94c02589505f215e491ee2",
+    "diagnostico_seed_17.json": "c4eb2fb55a15a6d35526061707f744b965e49ecec83309a768d0ff45f202433a",
+    "metricas_internas.csv": "f809bb1fc77ac4c175345d5da4709fdedf047371b413fdc967faadeef7351315",
+    "modelo_seed_73.joblib": "fea167529289b758ef5b88fc00d71f613228c74a8d0b0609345abe21c3a3f301"
+  }
+}
